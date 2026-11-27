@@ -1,36 +1,45 @@
 # GeoRank Frontend
 
-GeoRank is a product for exploring brand visibility across AI-powered search platforms. This repository contains the public website, the account-entry screens, and Next.js server actions that communicate with the GeoRank API. The signed-in dashboard lives in a separate React application.
+Site público e fluxo de entrada do GeoRank. Nesta versão de portfólio, dá para explorar as páginas de produto, a troca de idioma e as prévias interativas antes de entrar no Dashboard.
 
-## Run the preview
+![Página pública do GeoRank capturada em execução local. A prévia de indicadores do site é ilustrativa.](docs/preview.webp)
 
-Use Node.js 22 or 24 and npm.
+<sub>Página pública do GeoRank capturada em execução local. A prévia de indicadores do site é ilustrativa.</sub>
 
-```bash
+[GeoRank Dashboard](https://github.com/c7bc/georank-dashboard) · [Estudo de caso](https://www.danielneri.pro/pt/work/georank)
+
+## O que revisar em cinco minutos
+
+- **Páginas públicas:** layout responsivo, páginas de recursos e preços com Next.js App Router.
+- **Prévia interativa:** componentes React na landing page para explorar indicadores de exemplo.
+- **Entrada na conta:** formulários com React Hook Form, Zod e integração com a API.
+- **Idiomas e acessibilidade:** troca de idioma, menu mobile e retorno de foco ao fechar a navegação.
+
+| Área | Código |
+| --- | --- |
+| Composição da landing page | [Rota pública](app/%28public%29/page.tsx) e [prévia do painel](components/landing/dashboard-preview.tsx) |
+| Autenticação | [Ações](app/actions/auth.ts) e [destino pós-login](lib/utils/login-destination.ts) |
+| Integração com a API | [Cliente HTTP](lib/api/client.ts) e [proxy](proxy.ts) |
+| Internacionalização | [Configuração](i18n/request.ts) e [dicionários](dictionaries/) |
+
+## Executar
+
+Com Node.js 22 ou 24:
+
+~~~sh
 npm ci
 npm run dev
-```
+~~~
 
-Open [localhost:3000](http://localhost:3000). The landing page, pricing, public feature pages, language switching, and interactive preview cards run without credentials. The landing-page preview and chart values are illustrative. Authentication, invitations, and account actions require the separate GeoRank API. Set `NEXT_PUBLIC_API_URL` and `NEXT_PUBLIC_DASHBOARD_URL` for a local development stack using `.env.example` as a starting point.
+Abra [localhost:3000](http://localhost:3000). As páginas públicas funcionam sem credenciais. Autenticação, convites e outras ações de conta dependem da API separada. Use [.env.example](.env.example) para configurar o ambiente local e o endereço do Dashboard.
 
-## Where to review the code
+## Verificações
 
-| Area | Entry points |
-| --- | --- |
-| Responsive landing page and product previews | `app/(public)/page.tsx`, `components/landing/dashboard-preview.tsx` |
-| Accessible forms and authentication handoff | `app/(public)/login/page.tsx`, `app/(public)/signup/page.tsx`, `lib/utils/login-destination.ts` |
-| Authentication and private API requests | `app/actions/auth.ts`, `lib/api/client.ts`, `proxy.ts` |
-| Localization | `i18n/request.ts`, `app/actions/locale.ts`, `dictionaries/` |
-
-Next.js App Router renders the public routes. Client components handle interactive sections and form state. Forms use React Hook Form and Zod, while API authorization remains the responsibility of the backend. The frontend separates cacheable public requests from account-specific requests, and the login callback accepts only local paths. Analytics and support integrations require their own configuration. The Inter font is installed with the project so builds can run without fetching font files.
-
-## Checks
-
-```bash
+~~~sh
 npm run check
 npm run build
-```
+npx playwright install chromium
+npm run test:preview
+~~~
 
-`npm run check` runs ESLint, TypeScript, and Vitest unit tests. After building, `npx playwright install chromium` and `npm run test:preview` verify the public site without the API. The account-level integration and Playwright suites exercise a separately provisioned development stack. Run them with `npm run test:integration` and `npm run test:e2e` only against disposable services. The Playwright config expects the Go API checkout at `../backend` and does not provision the database or configure email verification.
-
-`npm start` serves the production build locally. The Dockerfile runs the same lockfile-based build and starts its standalone Node.js output.
+A suíte de prévia cobre páginas públicas, navegação mobile e troca de idioma. Os testes de integração com contas usam um ambiente de testes que precisa ser provisionado à parte.
