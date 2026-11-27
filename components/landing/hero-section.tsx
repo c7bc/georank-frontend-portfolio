@@ -61,7 +61,6 @@ export function HeroSection() {
             <Button
               asChild
               className="inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-xl text-sm font-semibold transition-colors focus-visible:outline-hidden focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 bg-primary text-primary-foreground shadow-sm hover:bg-primary/90 h-12 px-6 py-[14px] w-full sm:w-auto"
-              aria-label="Get started"
             >
               <Link href="/signup" onClick={() => fireTrackingPixel("signup")} data-umami-event="CTA Click" data-umami-event-location="Hero" data-umami-event-label="Get Started">
                 {t("ctaPrimary")}
@@ -72,7 +71,6 @@ export function HeroSection() {
               asChild
               variant="outline"
               className="inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-xl text-sm font-semibold transition-colors focus-visible:outline-hidden focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 bg-background text-foreground border border-border shadow-xs hover:bg-muted h-12 px-6 py-[14px] w-full sm:w-auto"
-              aria-label="Contact us"
             >
               <Link href="/contact" onClick={() => fireTrackingPixel("contact")} data-umami-event="CTA Click" data-umami-event-location="Hero" data-umami-event-label="Contact Us">
                 {t("ctaSecondary")}
@@ -82,9 +80,18 @@ export function HeroSection() {
         </div>
 
         {/* Dashboard Preview */}
-        <div className="mx-auto w-full max-w-[994px] max-h-[340px] overflow-hidden rounded-t-[16px] bg-card/20 shadow-[0_15px_80px_-1px_rgba(8,9,10,0.04)] backdrop-blur-[20px] mb-0 mt-auto [mask-image:linear-gradient(to_bottom,black_60%,transparent_100%)]">
-          <DashboardPreview />
-        </div>
+        <figure aria-labelledby="dashboard-preview-caption" className="mx-auto mt-auto w-full max-w-[994px]">
+          <figcaption id="dashboard-preview-caption" className="mb-2 text-center text-xs text-muted-foreground">
+            {t("dashboardPreviewCaption")}
+          </figcaption>
+          <div
+            aria-hidden="true"
+            inert
+            className="max-h-[340px] overflow-hidden rounded-t-[16px] bg-card/20 shadow-[0_15px_80px_-1px_rgba(8,9,10,0.04)] backdrop-blur-[20px] [mask-image:linear-gradient(to_bottom,black_60%,transparent_100%)]"
+          >
+            <DashboardPreview />
+          </div>
+        </figure>
       </div>
     </section>
   );

@@ -36,6 +36,13 @@ test("the selected locale is reflected on the document", async ({ page }) => {
   await page.getByRole("button", { name: "Language" }).click();
   await page.getByRole("menuitem", { name: /Portugu/ }).click();
   await expect(page.locator("html")).toHaveAttribute("lang", "pt-br");
+  const hero = page.locator("#metafi-hero");
+  await expect(hero.getByRole("link", { name: "Começar Agora", exact: true })).toHaveAttribute("href", "/signup");
+  await expect(hero.getByRole("link", { name: "Fale Conosco", exact: true })).toHaveAttribute("href", "/contact");
+  const preview = hero.getByRole("figure", { name: "Prévia do painel com dados de exemplo" });
+  await expect(preview).toBeVisible();
+  await expect(preview.getByRole("heading", { name: "Dashboard" })).toHaveCount(0);
+  await expect(preview.locator("[inert]")).toHaveAttribute("aria-hidden", "true");
   await page.reload();
   await expect(page.locator("html")).toHaveAttribute("lang", "pt-br");
 });

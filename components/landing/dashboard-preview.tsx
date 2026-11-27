@@ -23,8 +23,6 @@ import { Area, AreaChart, CartesianGrid, XAxis } from "recharts";
 import {
   type ChartConfig,
   ChartContainer,
-  ChartTooltip,
-  ChartTooltipContent,
 } from "@/components/ui/chart";
 import { cn } from "@/lib/utils";
 
@@ -118,7 +116,7 @@ export function DashboardPreview() {
       </div>
 
       {/* Main content */}
-      <div className="flex flex-1 flex-col bg-background">
+      <div className="flex min-w-0 flex-1 flex-col bg-background">
         {/* Header */}
         <div className="flex h-10 shrink-0 items-center justify-between border-b border-border/50 px-4">
           <div className="flex items-center gap-2">
@@ -200,7 +198,7 @@ export function DashboardPreview() {
             </div>
             <ChartContainer id="dashboard-preview-chart" config={chartConfig} className="mt-2 aspect-auto h-[100px] w-full">
               <AreaChart
-                accessibilityLayer
+                accessibilityLayer={false}
                 data={visibilityData}
                 margin={{ left: 8, right: 8 }}
               >
@@ -212,10 +210,6 @@ export function DashboardPreview() {
                   tickMargin={6}
                   tickFormatter={(value) => value.slice(0, 3)}
                   tick={{ fontSize: 8 }}
-                />
-                <ChartTooltip
-                  cursor={false}
-                  content={<ChartTooltipContent indicator="line" />}
                 />
                 <Area
                   dataKey="score"
