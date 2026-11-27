@@ -1,0 +1,1619 @@
+{
+  "metadata": {
+    "title": "GeoRank - Get discovered by AI. Not just Google.",
+    "description": "Monitor and optimize your brand's visibility in ChatGPT, Claude, Perplexity, and Gemini responses. The SEO tool for the AI era."
+  },
+  "nav": {
+    "features": "Features",
+    "integrations": "Integrations",
+    "pricing": "Pricing",
+    "resources": "Resources",
+    "blog": "Blog",
+    "docs": "Docs",
+    "contact": "Contact",
+    "about": "About Us",
+    "login": "Log in",
+    "startFree": "Get Started"
+  },
+  "hero": {
+    "badge": "SEO for the AI era",
+    "title": "Simplifying Visibility for the",
+    "titleHighlight": "AI search era",
+    "subtitle": "Monitor and optimize your brand's visibility in ChatGPT, Claude, Perplexity, and Gemini. The Ahrefs/SEMrush of AI search.",
+    "ctaPrimary": "Get Started",
+    "ctaSecondary": "Contact Us",
+    "trust": "No credit card required • Free for 14 days • Cancel anytime"
+  },
+  "socialProof": {
+    "title": "Trusted by 2,000+ forward-thinking brands"
+  },
+  "problem": {
+    "title": "Trusted by teams dominating AI search",
+    "subtitle": "GeoRank helps marketing teams maximize their brand visibility across ChatGPT, Claude, Perplexity, and Gemini with AI-powered monitoring and actionable insights.",
+    "stats": {
+      "brands": "2,000+",
+      "brandsLabel": "Brands",
+      "mentions": "1M+",
+      "mentionsLabel": "Mentions",
+      "platforms": "4",
+      "platformsLabel": "Platforms",
+      "insights": "<24h",
+      "insightsLabel": "First Insights"
+    }
+  },
+  "features": {
+    "title": "Everything you need to dominate AI search",
+    "subtitle": "All the tools and insights necessary for monitoring and optimizing your brand's visibility in AI platforms. Take control of your AI search presence with our comprehensive solutions.",
+    "items": [
+      {
+        "title": "Real-time Monitoring",
+        "description": "Track your brand mentions across ChatGPT, Claude, Perplexity, and Gemini. Know instantly when AI starts—or stops—recommending you."
+      },
+      {
+        "title": "Competitor Intelligence",
+        "description": "See exactly who AI recommends instead of you. Understand why competitors rank higher and what content makes them citeable."
+      },
+      {
+        "title": "Actionable Recommendations",
+        "description": "Get specific, prioritized actions to improve your AI visibility. Not just data—clear next steps to implement today."
+      },
+      {
+        "title": "Visibility Scoring",
+        "description": "Track your GEO Score over time. See how optimizations impact your AI discoverability with clear before/after metrics."
+      },
+      {
+        "title": "Instant Alerts",
+        "description": "Get notified when your visibility changes, when competitors gain ground, or when new opportunities emerge."
+      },
+      {
+        "title": "Automated Reports",
+        "description": "Weekly and monthly reports delivered to your inbox. Share progress with stakeholders without lifting a finger."
+      },
+      {
+        "title": "Integrations & API",
+        "description": "Connect with Slack, Zapier, and more. Full API access to build custom workflows and dashboards."
+      }
+    ]
+  },
+  "integrationsSection": {
+    "tagline": "Integrations",
+    "title": "Connect Your Workflow with Powerful Integrations",
+    "subtitle": "Streamline your AI visibility workflow with seamless integrations. Get notified, automate actions, and connect GeoRank with the tools your team already uses.",
+    "cta": "Get Started Free",
+    "items": [
+      {
+        "name": "Slack",
+        "description": "Get real-time notifications in your Slack channels when your brand is mentioned or rankings change across AI platforms."
+      },
+      {
+        "name": "Discord",
+        "description": "Receive instant alerts in your Discord server with rich embeds whenever your AI visibility metrics shift."
+      },
+      {
+        "name": "Zapier",
+        "description": "Connect GeoRank with thousands of apps. Automate workflows and trigger actions based on AI visibility events."
+      },
+      {
+        "name": "Webhooks",
+        "description": "Send data to any custom endpoint. Build your own integrations with secure HMAC-signed webhook payloads."
+      },
+      {
+        "name": "Email Notifications",
+        "description": "Receive detailed email updates and weekly digests about your brand's AI visibility performance."
+      },
+      {
+        "name": "Google Analytics",
+        "description": "Track AI referral traffic and measure how AI search visibility translates into real website visits."
+      }
+    ],
+    "comingSoonBadge": "In development",
+    "comingSoonMessage": "Integrations are under development and will be available soon. Sign up to be notified when they're ready!"
+  },
+  "howItWorks": {
+    "title": "Start in under 2 minutes",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Add your brand",
+        "description": "Enter your domain and the keywords that matter to your business. We'll handle the rest."
+      },
+      {
+        "number": "02",
+        "title": "We query AI platforms",
+        "description": "Our system automatically queries ChatGPT, Claude, Perplexity, and Gemini with relevant prompts—hundreds of times per day."
+      },
+      {
+        "number": "03",
+        "title": "Get insights & act",
+        "description": "See where you appear, where you don't, and exactly what to do about it. Actionable recommendations, not just dashboards."
+      }
+    ]
+  },
+  "dashboardPreview": {
+    "title": "Powerful insights. Zero complexity.",
+    "subtitle": "A dashboard that shows you what matters. No PhD required.",
+    "metrics": {
+      "geoScore": "GEO Score: 73/100",
+      "mentions": "AI Mentions: 847 this month",
+      "competitor": "Top competitor: Notion (89/100)"
+    }
+  },
+  "testimonials": {
+    "tagline": "Our Customers",
+    "title": "See What Our Customers Are Saying",
+    "subtitle": "Here's what some of our customers say about our platform.",
+    "cta": "See All Customer Stories",
+    "ctaLess": "Show Less",
+    "items": [
+      {
+        "quote": "AI visibility is the new battleground for brands, and GeoRank gave us the edge. We increased our ChatGPT mentions by 340% in just 8 weeks.",
+        "author": "Charolette Hanlin",
+        "role": "Co-Founder, NovaBrand"
+      },
+      {
+        "quote": "The competitor analysis alone is worth 10x the price. We can see exactly why others get recommended over us and what to do about it.",
+        "author": "Novák Balázs",
+        "role": "Co-Founder, ScaleUp Digital"
+      },
+      {
+        "quote": "GeoRank's actionable recommendations transformed our content strategy. We went from invisible to top-3 in Claude responses.",
+        "author": "Orosz Boldizsár",
+        "role": "Founder, ContentFlow"
+      },
+      {
+        "quote": "The GEO Score tracking is brilliant. We can finally measure how our optimizations impact AI discoverability with clear before/after metrics.",
+        "author": "Floyd Miles",
+        "role": "Co-Founder, GrowthHQ"
+      },
+      {
+        "quote": "Finally, a tool that understands the future of search. Our organic traffic from AI referrals is now 15% of total.",
+        "author": "Darrell Steward",
+        "role": "Founder, BrightPath"
+      },
+      {
+        "quote": "Since using GeoRank, our brand is consistently mentioned across ChatGPT, Claude, and Perplexity. The ROI speaks for itself.",
+        "author": "Devon Lane",
+        "role": "Marketing, DataPulse"
+      },
+      {
+        "quote": "We consolidated our entire AI monitoring stack into GeoRank—reporting and visibility tracking are finally clear.",
+        "author": "Jenny Wilson",
+        "role": "CFO, Pinnacle Labs"
+      },
+      {
+        "quote": "The automated reports alone paid for the subscription in under a month. Our executives love the weekly digests.",
+        "author": "Jacob Jones",
+        "role": "VP Ops, Horizon Tech"
+      },
+      {
+        "quote": "GeoRank's Slack integration means our team catches every mention the moment it happens. Response time went from days to hours.",
+        "author": "Eleanor Pena",
+        "role": "Head of Product, CloudBase"
+      },
+      {
+        "quote": "Our marketing team finally enjoys monthly reviews. The GEO Score trend charts make progress effortless to communicate.",
+        "author": "Courtney Henry",
+        "role": "Marketing Lead, Vantage AI"
+      },
+      {
+        "quote": "The platform gave us visibility into AI search we didn't know we were missing. Game changer for our content strategy.",
+        "author": "Leslie Alexander",
+        "role": "Director, NexGen Digital"
+      },
+      {
+        "quote": "From keyword tracking to competitor benchmarks—everything lives in one dashboard now. Exactly what we needed.",
+        "author": "Guy Hawkins",
+        "role": "Founder, LaunchPad Co"
+      }
+    ]
+  },
+  "pricingHero": {
+    "tagline": "Pricing",
+    "title": "Simple, Flexible",
+    "titleLine2": "Pricing",
+    "subtitle": "Pricing plans for businesses at every stage of AI visibility growth.",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "saveOff": "Save 20% OFF",
+    "perMonth": "Per month / billed yearly",
+    "contactUs": "Contact us for details",
+    "free": {
+      "name": "Free",
+      "description": "Get started with basic AI visibility monitoring",
+      "features": [
+        "1 domain",
+        "3 tracked keywords",
+        "Monthly keyword queries",
+        "2 AI platforms (ChatGPT, Gemini)",
+        "Monthly reports (AI + PDF)",
+        "No competitor tracking",
+        "1 team member",
+        "6 queries/month"
+      ],
+      "cta": "Get Started Free"
+    },
+    "firstMovers": {
+      "name": "First Movers",
+      "badge": "Limited plan",
+      "description": "Early adopter plan with essential features",
+      "features": [
+        "1 domain",
+        "15 tracked keywords",
+        "Weekly keyword queries",
+        "2 AI platforms (ChatGPT, Gemini)",
+        "1 competitor tracking",
+        "Weekly AI recommendations",
+        "Weekly reports (AI + PDF)",
+        "1 team member",
+        "120 queries/month"
+      ],
+      "cta": "Try First Movers"
+    },
+    "starter": {
+      "name": "Starter",
+      "description": "For small brands getting serious about AI visibility",
+      "features": [
+        "2 domains",
+        "50 tracked keywords",
+        "Weekly keyword queries",
+        "4 AI platforms (+Claude, Perplexity)",
+        "3 competitor tracking",
+        "Weekly AI recommendations",
+        "Weekly reports (AI + PDF)",
+        "API access (coming soon)",
+        "3 team members (coming soon)",
+        "800 queries/month"
+      ],
+      "cta": "Start with Starter"
+    },
+    "pro": {
+      "name": "Pro",
+      "badge": "Most Popular",
+      "description": "For growing brands serious about dominating AI search visibility.",
+      "features": [
+        "5 domains",
+        "200 tracked keywords",
+        "Daily keyword queries",
+        "All 6 AI platforms",
+        "10 competitor tracking",
+        "Daily AI recommendations",
+        "Daily reports (AI + PDF)",
+        "API access (coming soon)",
+        "Integrations (Slack, Zapier, etc) (coming soon)",
+        "10 team members (coming soon)",
+        "36,000 queries/month"
+      ],
+      "cta": "Get Started"
+    },
+    "agency": {
+      "name": "Agency",
+      "description": "For agencies and large teams managing multiple brands",
+      "features": [
+        "15 domains",
+        "500 tracked keywords",
+        "Daily keyword queries",
+        "All 6 AI platforms",
+        "50 competitor tracking",
+        "Daily AI recommendations",
+        "Daily reports (AI + PDF)",
+        "API access (coming soon)",
+        "Integrations (Slack, Zapier, etc) (coming soon)",
+        "50 team members (coming soon)",
+        "90,000 queries/month"
+      ],
+      "cta": "Choose Agency"
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "description": "Custom solution for large organizations with unlimited needs.",
+      "price": "Let's Talk",
+      "features": [
+        "Unlimited domains & keywords",
+        "Hourly keyword queries",
+        "All 6 AI platforms",
+        "Unlimited competitor tracking",
+        "Daily AI recommendations",
+        "Daily reports (AI + PDF)",
+        "Advanced API access (coming soon)",
+        "Custom integrations (coming soon)",
+        "Unlimited team members (coming soon)",
+        "Dedicated account manager",
+        "Custom SLA & support"
+      ],
+      "cta": "Contact Sales"
+    }
+  },
+  "featuresIncluded": {
+    "tagline": "Features",
+    "title": "What's Included",
+    "subtitle": "Unlock the power of our robust features to elevate your AI visibility to new heights",
+    "items": [
+      {
+        "icon": "/images/features/included/monitoring.svg",
+        "title": "Real-time Monitoring",
+        "description": "Track your brand mentions across ChatGPT, Claude, Perplexity, and Gemini in real-time with automated queries."
+      },
+      {
+        "icon": "/images/features/included/score.svg",
+        "title": "GEO Score Tracking",
+        "description": "Monitor your visibility score (0-100) and see how optimizations impact your AI discoverability over time."
+      },
+      {
+        "icon": "/images/features/included/keywords.svg",
+        "title": "Keyword Tracking",
+        "description": "Track the keywords and queries that matter most to your business across all major AI platforms."
+      },
+      {
+        "icon": "/images/features/included/competitors.svg",
+        "title": "Competitor Intelligence",
+        "description": "See exactly who AI recommends instead of you and understand why competitors rank higher."
+      },
+      {
+        "icon": "/images/features/included/recommendations.svg",
+        "title": "AI Recommendations",
+        "description": "Get specific, prioritized actions to improve your AI visibility—not just data, clear next steps."
+      },
+      {
+        "icon": "/images/features/included/reports.svg",
+        "title": "Automated Reports",
+        "description": "Weekly and monthly reports delivered to your inbox with AI insights and progress tracking."
+      },
+      {
+        "icon": "/images/features/included/api.svg",
+        "title": "API Access",
+        "description": "Full API access to integrate GeoRank data into your existing dashboards and custom workflows."
+      },
+      {
+        "icon": "/images/features/included/integrations.svg",
+        "title": "Integrations",
+        "description": "Connect with Slack, Zapier, webhooks, and more to automate your AI visibility workflow."
+      },
+      {
+        "icon": "/images/features/included/team.svg",
+        "title": "Team Collaboration",
+        "description": "Invite team members with granular permissions to collaborate on improving your AI presence."
+      }
+    ]
+  },
+  "pricing": {
+    "tagline": "Pricing",
+    "title": "Simple, transparent pricing",
+    "subtitle": "Start free. Upgrade when you're ready.",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "yearlySave": "Save 20%",
+    "saveOff": "on annual billing",
+    "perMonth": "/month",
+    "mostPopular": "Most Popular",
+    "limitedPlan": "Limited plan",
+    "startTrial": "Get Started",
+    "getStarted": "Try for free",
+    "contactSales": "Contact Sales",
+    "custom": "Custom",
+    "plans": {
+      "free": {
+        "name": "Free",
+        "price": "0",
+        "yearlyPrice": "0",
+        "description": "Essential AI visibility monitoring",
+        "features": [
+          "1 domain",
+          "3 tracked keywords",
+          "Monthly reports (AI+PDF)",
+          "GPT + Gemini monitoring",
+          "1 team member",
+          "6 queries/month"
+        ]
+      },
+      "first_movers": {
+        "name": "First Movers",
+        "price": "5",
+        "yearlyPrice": "4",
+        "description": "The perfect start for early adopters",
+        "features": [
+          "1 domain",
+          "15 tracked keywords",
+          "Weekly reports",
+          "2 AI platforms (ChatGPT, Gemini)",
+          "1 competitor tracking",
+          "Weekly AI recommendations",
+          "120 queries/month"
+        ]
+      },
+      "starter": {
+        "name": "Starter",
+        "price": "49",
+        "yearlyPrice": "39",
+        "description": "For small brands getting serious",
+        "features": [
+          "2 domains",
+          "50 tracked keywords",
+          "Weekly reports",
+          "4 AI platforms (ChatGPT, Gemini, DeepSeek, Grok)",
+          "3 competitor tracking",
+          "Weekly AI recommendations",
+          "API access (coming soon)",
+          "3 team members (coming soon)",
+          "800 queries/month"
+        ]
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "99",
+        "yearlyPrice": "79",
+        "description": "Comprehensive monitoring for growing brands",
+        "features": [
+          "5 domains",
+          "200 tracked keywords",
+          "Daily reports",
+          "All 6 platforms incl. Claude & Perplexity",
+          "2× more daily queries than Starter",
+          "10 competitor tracking",
+          "Daily AI recommendations",
+          "API + Integrations (coming soon)",
+          "10 team members (coming soon)",
+          "36,000 queries/month"
+        ]
+      },
+      "agency": {
+        "name": "Agency",
+        "price": "249",
+        "yearlyPrice": "199",
+        "description": "Full scale solution for agencies",
+        "features": [
+          "15 domains",
+          "500 tracked keywords",
+          "Daily reports",
+          "All 6 platforms incl. Claude & Perplexity",
+          "6× more daily queries than Starter",
+          "50 competitor tracking",
+          "Daily AI recommendations",
+          "API + Integrations (coming soon)",
+          "50 team members (coming soon)",
+          "90,000 queries/month"
+        ]
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "price": "0",
+        "yearlyPrice": "0",
+        "description": "Massive scale and custom requirements",
+        "features": [
+          "Custom domains & keywords",
+          "All 6 AI platforms",
+          "Custom daily query limits",
+          "Custom competitors",
+          "API + Custom integrations (coming soon)",
+          "Custom team size (coming soon)",
+          "Dedicated account manager",
+          "Custom SLA"
+        ]
+      }
+    }
+  },
+  "featuresAndPricing": {
+    "hero": {
+      "tagline": "AI Visibility Tracking",
+      "title": "Dominate AI Search Results",
+      "description": "Monitor and optimize your brand's visibility in ChatGPT, Claude, Perplexity, and Gemini. The Ahrefs/SEMrush of the AI era.",
+      "getStarted": "Get Started",
+      "contactSales": "Contact Sales"
+    },
+    "benefits": {
+      "item1": {
+        "title": "Drive More Traffic",
+        "description": "Maximize organic traffic from AI platforms with efficient optimization strategies."
+      },
+      "item2": {
+        "title": "Realtime Alerts",
+        "description": "Receive instant notifications when your brand is mentioned or when rankings change."
+      },
+      "item3": {
+        "title": "Actionable Insights",
+        "description": "Get specific recommendations to improve your rankings and visibility scores."
+      }
+    },
+    "tabs": {
+      "tagline": "For Marketing Teams",
+      "title": "The Complete AI SEO Toolkit",
+      "description": "Lay the foundation for your AI visibility strategy with comprehensive tools tailored to your needs.",
+      "items": {
+        "tracker": {
+          "title": "Visibility Tracker",
+          "description": "Track your GEO Score (0-100) and brand mentions across all major AI platforms in real-time."
+        },
+        "competitors": {
+          "title": "Competitor Analysis",
+          "description": "See exactly who AI recommends instead of you and understand why they rank higher."
+        },
+        "recommendations": {
+          "title": "Recommendation Engine",
+          "description": "Get AI-powered suggestions on how to improve your content to be more citeable by LLMs."
+        },
+        "reporting": {
+          "title": "Automated Reporting",
+          "description": "Schedule white-label PDF reports to be sent to your team or clients automatically."
+        }
+      }
+    },
+    "pricingFeature": {
+      "tagline": "For Agencies & Brands",
+      "title": "Enterprise-Grade AI Monitoring",
+      "description1": "Manage multiple brands and domains with ease. Track thousands of keywords across all AI platforms."
+
+    }
+  },
+  "faq": {
+    "tagline": "FAQ",
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about GeoRank and how it helps your brand dominate AI search results.",
+    "items": [
+      {
+        "question": "What AI platforms do you track?",
+        "answer": "We currently monitor ChatGPT, Claude, Perplexity, Google Gemini, DeepSeek, and more—always using the latest and most robust models available. We continuously add new platforms as they gain market share."
+      },
+      {
+        "question": "How often is data updated?",
+        "answer": "GeoRank works in two ways: keyword queries and recommendations are generated based on the training data of each AI model, giving you a baseline visibility picture. For deeper insights, our system performs a real-time deep research—analyzing your domains, keywords, and recommendations—to generate a comprehensive report on your brand's AI presence.\n\nFrequency depends on your plan: Free updates monthly, First Movers and Starter weekly, Pro and Agency daily, and Enterprise as frequently as every hour."
+      },
+      {
+        "question": "What's a \"GEO Score\"?",
+        "answer": "Your GEO Score (0-100) measures how often and how prominently AI mentions your brand for your tracked keywords. Higher is better."
+      },
+      {
+        "question": "Can I track competitors?",
+        "answer": "Yes! Competitor tracking starts from the First Movers plan (1 competitor) and scales up: Starter tracks 3, Pro tracks 10, and Agency tracks up to 50. Enterprise plans have virtually unlimited competitor tracking. See exactly who AI recommends instead of you and why."
+      },
+      {
+        "question": "Can I try before subscribing?",
+        "answer": "Yes! We offer a free plan so you can explore GeoRank with no commitment. When you're ready to upgrade, you can cancel anytime—no contracts, no cancellation fees."
+      },
+      {
+        "question": "Is there an API?",
+        "answer": "API access is available from the Starter plan onwards. You can integrate GeoRank data into your existing dashboards, workflows, and custom tools."
+      },
+      {
+        "question": "Do you add new features and AI models over time?",
+        "answer": "Absolutely! GeoRank is an early-stage product with an ambitious medium-term roadmap. We update our AI models with every new generation released by each platform, ensuring you always get the most recent and capable models.\n\nWe're actively building: visibility breakdowns by model, region and audience, brand visibility scoring, source visibility metrics, citation tracking, suggested prompts, and much more. New features ship regularly—stay tuned."
+      }
+    ]
+  },
+  "blogSection": {
+    "tagline": "Our Blog",
+    "title": "Latest Blog Posts",
+    "subtitle": "Insights and strategies on AI search visibility, GEO optimization, and the future of brand discovery.",
+    "items": [
+      {
+        "category": "GEO Strategy",
+        "title": "How AI Search is Reshaping Brand Discovery in 2025",
+        "description": "Discover how ChatGPT, Claude, and Perplexity are changing the way consumers find and choose brands—and what you can do about it.",
+        "author": "Alex Rivera",
+        "date": "Jan 15, 2025"
+      },
+      {
+        "category": "Guides",
+        "title": "The Complete Guide to Generative Engine Optimization",
+        "description": "Everything you need to know about optimizing your brand's visibility in AI-powered search engines and conversational assistants.",
+        "author": "Sarah Chen",
+        "date": "Jan 8, 2025"
+      },
+      {
+        "category": "AI Visibility",
+        "title": "Why Your Brand is Invisible to ChatGPT (And How to Fix It)",
+        "description": "Most brands don't appear in AI recommendations. Learn the key factors that determine whether AI models mention your brand to users.",
+        "author": "Marcus Johnson",
+        "date": "Dec 28, 2024"
+      },
+      {
+        "category": "Analytics",
+        "title": "Tracking AI Mentions: The Metrics That Actually Matter",
+        "description": "Not all AI mentions are created equal. Learn which metrics to focus on and how to measure your true AI search visibility.",
+        "author": "Elena Costa",
+        "date": "Dec 20, 2024"
+      }
+    ]
+  },
+  "keyFeatures": {
+    "tagline": "Capabilities",
+    "title": "Built for modern AI visibility",
+    "subtitle": "Every tool you need to monitor, analyze, and optimize your presence across AI platforms.",
+    "items": [
+      {
+        "title": "Keywords",
+        "description": "Set up the keywords that matter to your business. We query AI platforms with relevant prompts hundreds of times per day."
+      },
+      {
+        "title": "Data-Driven Insights",
+        "description": "Use real data to understand what makes AI recommend you or your competitors. Find patterns, not guesses."
+      },
+      {
+        "title": "Domains",
+        "description": "Add all your domains and track how each one performs across AI platforms. Multi-domain support built in."
+      },
+      {
+        "title": "Key Sources",
+        "description": "Discover which websites and sources AI uses to form its recommendations. Know where to focus your efforts."
+      }
+    ]
+  },
+  "reportsSection": {
+    "title": "Share insights, not spreadsheets",
+    "subtitle": "Discover how your brand performs on AI answer engines — and uncover the opportunities to outpace the competition.",
+    "cta": "Start monitoring",
+    "checklistLabel": "Get insights into:",
+    "checklist": [
+      "AI Visibility Score",
+      "Keyword Rankings",
+      "Source Citations",
+      "Competitor Analysis"
+    ]
+  },
+  "cta": {
+    "title": "Get your brand mentioned by",
+    "subtitle": "Monitor and optimize how AI platforms recommend your brand to millions of users",
+    "button": "Try for free",
+    "ctaSecondary": "Talk to Sales"
+  },
+  "footer": {
+    "product": {
+      "title": "Product",
+      "links": [
+        "Features",
+        "Integrations",
+        "Pricing"
+      ]
+    },
+    "company": {
+      "title": "Support",
+      "links": [
+        "Contact"
+      ]
+    },
+    "legal": {
+      "title": "Legal",
+      "links": [
+        "Privacy Policy",
+        "Terms of Service",
+        "Cookie Policy"
+      ]
+    },
+    "copyright": "© 2025 GeoRank. All rights reserved."
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "subtitle": "Monitor and optimize your brand's visibility in AI search.",
+    "geoScore": "GEO Score",
+    "aiMentions": "AI Mentions",
+    "keywordsTracked": "Keywords Tracked",
+    "bestRanking": "Best Ranking",
+    "thisMonth": "this month",
+    "vsLastWeek": "vs last week",
+    "vsLastMonth": "vs last month",
+    "limit": "limit",
+    "addKeyword": "Add keyword",
+    "upgrade": "Upgrade Plan",
+    "trendingUp": "Trending up this month",
+    "trendingDown": "Trending down this month",
+    "trendingStable": "Steady performance",
+    "geoScoreContext": "GEO Score over the last 7 days",
+    "mentionsContext": "AI mentions for the last 30 days",
+    "keywordsContext": "Limit based on your plan",
+    "rankingContext": "Average position this period",
+    "visibility": {
+      "title": "Visibility Over Time",
+      "subtitle": "Your GEO Score trend across all platforms",
+      "emptyTitle": "No visibility data yet",
+      "emptyDescription": "Data will appear here once we start tracking your visibility",
+      "upgradeTitle": "Upgrade to see Visibility Trends",
+      "upgradeDescription": "Track your AI visibility over time with a paid plan"
+    },
+    "recentMentions": {
+      "title": "Recent Mentions",
+      "subtitle": "Latest AI responses mentioning your brand",
+      "viewAll": "View all mentions",
+      "mentioned": "Mentioned",
+      "notMentioned": "Not mentioned",
+      "deletedKeyword": "Deleted keyword",
+      "emptyTitle": "No mentions yet",
+      "emptyDescription": "AI mentions will appear here once platforms start tracking your brand"
+    },
+    "topKeywords": {
+      "title": "Top Performing Keywords",
+      "subtitle": "Your best ranking keywords by GEO Score",
+      "viewAll": "View all keywords",
+      "keyword": "Keyword",
+      "score": "Score",
+      "trend": "Trend",
+      "status": "Status",
+      "emptyTitle": "No keywords yet",
+      "emptyDescription": "Add keywords to start tracking your AI visibility"
+    },
+    "competitors": {
+      "title": "Competitor Comparison",
+      "subtitle": "How you stack up against tracked competitors",
+      "viewDetails": "View competitor details",
+      "emptyTitle": "No competitors tracked",
+      "emptyDescription": "Add competitors to see how you compare",
+      "upgradeTitle": "Upgrade to track Competitors",
+      "upgradeDescription": "Compare your brand against competitors with a paid plan"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Welcome back",
+      "subtitle": "Log in to your account",
+      "email": "Email address",
+      "emailPlaceholder": "you@company.com",
+      "password": "Password",
+      "passwordPlaceholder": "••••••••",
+      "forgotPassword": "Forgot password?",
+      "button": "Sign In",
+      "welcomeBack": "Welcome back! Please enter your details",
+      "orContinue": "Or sign in with",
+      "google": "Sign in with Google",
+      "facebook": "Sign in with Facebook",
+      "noAccount": "Don’t have an account?",
+      "signUp": "Sign Up"
+    },
+    "signup": {
+      "title": "Create your account",
+      "subtitle": "Join GeoRank and get discovered by AI.",
+      "name": "Full name",
+      "namePlaceholder": "John Doe",
+      "email": "Email",
+      "emailPlaceholder": "johndoe@mail.com",
+      "password": "Password",
+      "passwordPlaceholder": "Password",
+      "repeatPassword": "Repeat Password",
+      "repeatPasswordPlaceholder": "Repeat Password",
+      "passwordHelper": "Must be at least 8 characters",
+      "terms": "I agree to the Terms of Service and Privacy Policy",
+      "button": "Sign up",
+      "orContinue": "Or Sign up with",
+      "google": "Sign up with Google",
+      "facebook": "Sign up with Facebook",
+      "hasAccount": "Already have an account?",
+      "logIn": "Log in",
+      "verifyTitle": "Check your email",
+      "verifySubtitle": "We sent a 6-digit code to {email}",
+      "codeLabel": "Verification Code",
+      "codePlaceholder": "000000",
+      "verifyButton": "Verify Email",
+      "resendPrompt": "Didn't receive it?",
+      "resend": "Resend code"
+    },
+    "forgotPassword": {
+      "title": "Reset your password",
+      "subtitle": "Enter your email and we'll send you a reset link",
+      "email": "Email address",
+      "emailPlaceholder": "you@company.com",
+      "button": "Send reset link",
+      "backToLogin": "Back to login"
+    }
+  },
+  "keywords": {
+    "title": "Keywords",
+    "subtitle": "Manage and monitor your tracked keywords",
+    "addKeyword": "Add Keyword",
+    "allPlatforms": "All Platforms",
+    "allStatus": "All Status",
+    "sortBy": "Sort by",
+    "score": "Score",
+    "recent": "Recent",
+    "alphabetical": "Alphabetical",
+    "allDomains": "All Domains",
+    "table": {
+      "keyword": "Keyword",
+      "domain": "Domain",
+      "platforms": "Platforms",
+      "score": "Score",
+      "trend": "Trend (7d)",
+      "mentions": "Mentions",
+      "status": "Status",
+      "autoQuery": "Auto",
+      "actions": "Actions"
+    },
+    "status": {
+      "ranking": "Ranking",
+      "improving": "Improving",
+      "needsWork": "Needs work",
+      "notRanking": "Not ranking"
+    },
+    "addModal": {
+      "title": "Add New Keyword",
+      "subtitle": "Enter a keyword or phrase to track across AI platforms",
+      "label": "Keyword",
+      "placeholder": "e.g., \"best project management tool\"",
+      "helper": "Use natural language queries that your customers might ask AI",
+      "platformsLabel": "Platforms to monitor",
+      "domainLabel": "Domain",
+      "domainPlaceholder": "Select a domain",
+      "cancel": "Cancel",
+      "add": "Add Keyword"
+    },
+    "generateQuery": {
+      "trigger": "Generate Query Now",
+      "title": "Generate Query Now",
+      "subtitle": "Select keywords and AI platforms to query",
+      "usageTitle": "Monthly Usage",
+      "used": "used",
+      "keywordsSection": "Keywords",
+      "selectAll": "Select All",
+      "deselectAll": "Deselect All",
+      "platformsSection": "AI Platforms",
+      "remaining": "{count} queries remaining after",
+      "overLimit": "Not enough queries remaining. You need {needed} but only have {available}.",
+      "quotaExhausted": "You need {needed}, but you've used all your monthly quota.",
+      "generate": "Generate",
+      "generating": "Generating...",
+      "cancel": "Cancel"
+    },
+    "empty": {
+      "title": "No keywords yet",
+      "description": "Add your first keyword to start tracking your AI visibility",
+      "button": "Add Your First Keyword"
+    }
+  },
+  "domains": {
+    "title": "Domains",
+    "subtitle": "Manage the domains you're tracking across AI platforms",
+    "addDomain": "Add Domain",
+    "usage": "used",
+    "geoScore": "GEO Score",
+    "keywords": "keywords",
+    "lastScanned": "Last scanned",
+    "never": "Never",
+    "addModal": {
+      "title": "Add Domain",
+      "subtitle": "Enter the domain you want to track",
+      "urlLabel": "Domain URL",
+      "urlPlaceholder": "example.com",
+      "nameLabel": "Display Name",
+      "namePlaceholder": "My Company",
+      "cancel": "Cancel",
+      "add": "Add Domain"
+    },
+    "editModal": {
+      "title": "Edit Domain",
+      "subtitle": "Update domain details"
+    },
+    "deleteConfirm": {
+      "title": "Delete Domain",
+      "description": "This will permanently delete this domain and disassociate all keywords. This action cannot be undone."
+    },
+    "empty": {
+      "title": "No domains yet",
+      "description": "Add your first domain to start tracking AI visibility."
+    }
+  },
+  "competitors": {
+    "title": "Competitors",
+    "subtitle": "Track and analyze your competition in AI search",
+    "addCompetitor": "Add Competitor",
+    "usage": "competitors tracked",
+    "upgradeUnlimited": "Upgrade for unlimited",
+    "pointsAhead": "points ahead of you",
+    "pointsBehind": "points behind you",
+    "thisWeek": "this week",
+    "keywordsRanking": "keywords ranking",
+    "mentions": "mentions",
+    "viewAnalysis": "View Analysis",
+    "headToHead": {
+      "title": "Head-to-Head Comparison",
+      "subtitle": "See how you compare across platforms",
+      "compareWith": "Compare with"
+    },
+    "insights": {
+      "title": "Why {competitor} ranks higher",
+      "subtitle": "AI-generated insights based on response analysis"
+    },
+    "addModal": {
+      "title": "Add Competitor",
+      "label": "Competitor domain",
+      "placeholder": "e.g., competitor.com",
+      "helper": "We'll automatically fetch their info and start tracking",
+      "cancel": "Cancel",
+      "add": "Add Competitor"
+    },
+    "empty": {
+      "title": "No competitors yet",
+      "description": "Add your first competitor to track and compare AI visibility"
+    }
+  },
+  "reports": {
+    "title": "Reports",
+    "subtitle": "Automated insights delivered to your inbox",
+    "generateNow": "Generate Report Now",
+    "settings": {
+      "title": "Scheduled Reports",
+      "subtitle": "Automatically receive reports via email",
+      "autoGenerate": "Auto-generate",
+      "sendEmail": "Email notifications",
+      "frequency": "Frequency",
+      "nextRun": "Next run",
+      "lastGenerated": "Last generated",
+      "usage": "Usage",
+      "autoOff": "Disabled",
+      "weekly": "Weekly Report",
+      "weeklyDesc": "Sent every Monday at 9:00 AM",
+      "monthly": "Monthly Report",
+      "monthlyDesc": "Sent on the 1st of each month",
+      "lastSent": "Last sent",
+      "noSettings": "Report settings are not available at the moment",
+      "noSettingsDesc": "Please try again later"
+    },
+    "recipients": {
+      "title": "Email Recipients",
+      "placeholder": "Add email address",
+      "addRecipient": "Add Recipient",
+      "owner": "Owner",
+      "upgradeHint": "Upgrade to Starter or higher to add more recipients"
+    },
+    "history": {
+      "title": "Report History",
+      "subtitle": "Download or preview past reports",
+      "report": "Report",
+      "date": "Date",
+      "type": "Type",
+      "status": "Status",
+      "actions": "Actions",
+      "preview": "Preview",
+      "download": "Download PDF",
+      "delivered": "Delivered",
+      "generating": "Generating",
+      "empty": "No reports generated yet. Click 'Generate Report Now' to create your first report."
+    },
+    "preview": {
+      "title": "What's in your report?",
+      "includes": [
+        "GEO Score summary and trends",
+        "Top performing keywords",
+        "Competitor movement",
+        "New opportunities identified",
+        "Recommended actions"
+      ],
+      "downloadSample": "Download Sample Report"
+    }
+  },
+  "recommendations": {
+    "title": "Recommendations",
+    "subtitle": "AI-powered suggestions to improve your visibility",
+    "generate": "Generate",
+    "potentialImpact": "Potential Impact",
+    "allComplete": "All complete!",
+    "progress": {
+      "title": "Completed",
+      "of": "of"
+    },
+    "status": {
+      "completed": "Completed",
+      "inProgress": "In Progress"
+    },
+    "empty": {
+      "title": "No recommendations yet",
+      "description": "Recommendations will appear once we've analyzed your AI visibility data"
+    },
+    "actions": {
+      "start": "Start",
+      "markComplete": "Mark Complete",
+      "updating": "Updating..."
+    }
+  },
+  "billing": {
+    "title": "Billing",
+    "subtitle": "Manage your subscription and payment methods",
+    "currentPlan": {
+      "title": "Current Plan",
+      "renews": "Renews",
+      "changePlan": "Change Plan",
+      "upgrade": "Upgrade Plan",
+      "manageSub": "Manage Subscription",
+      "cancel": "Cancel Subscription",
+      "noPlanTitle": "No plan information available",
+      "noPlanDesc": "Please try again later or contact support"
+    },
+    "usage": {
+      "keywords": "Keywords",
+      "queries": "Keyword Queries (monthly)",
+      "domains": "Domains",
+      "competitors": "Competitors",
+      "reports": "Reports (monthly)",
+      "recommendations": "Recommendations (monthly)",
+      "used": "used"
+    },
+    "paymentMethod": {
+      "title": "Payment Method",
+      "expires": "Expires",
+      "update": "Update Payment Method",
+      "billingEmail": "Billing email",
+      "updateEmail": "Update Email"
+    },
+    "invoices": {
+      "title": "Invoices",
+      "date": "Date",
+      "description": "Description",
+      "amount": "Amount",
+      "status": "Status",
+      "download": "Download",
+      "paid": "Paid",
+      "viewAll": "View all invoices"
+    },
+    "downgrade": {
+      "title": "Downgrade Warning",
+      "description": "Downgrading to {plan} will result in the following changes:",
+      "keywordsArchived": "{count} keywords will be archived",
+      "competitorsArchived": "{count} competitors will be archived",
+      "domainsArchived": "{count} domains will be archived",
+      "membersDeactivated": "{count} team members will be deactivated",
+      "loseTeam": "Team collaboration will be disabled",
+      "loseAPI": "API access will be disabled",
+      "loseIntegrations": "Integrations will be disabled",
+      "loseCompetitors": "Competitor tracking will be disabled",
+      "understand": "I understand these changes cannot be undone",
+      "confirm": "Proceed to Downgrade",
+      "cancel": "Cancel"
+    }
+  },
+  "onboarding": {
+    "step1": {
+      "progress": "Step 1 of 3 — Your Brand",
+      "title": "Let's set up your brand",
+      "subtitle": "We'll start tracking how AI sees your domain",
+      "label": "Your domain",
+      "placeholder": "yourbrand.com",
+      "helper": "Don't include https:// or www",
+      "continue": "Continue"
+    },
+    "step2": {
+      "progress": "Step 2 of 3 — Keywords",
+      "title": "What should AI recommend you for?",
+      "subtitle": "Add the keywords and phrases your customers ask AI about",
+      "keywordLabel": "Keyword",
+      "placeholder": "e.g., \"best project management tool\"",
+      "addAnother": "Add another keyword",
+      "suggestions": "Suggested for your domain:",
+      "continue": "Continue",
+      "limitReached": "Maximum 20 keywords for free plan"
+    },
+    "step3": {
+      "progress": "Step 3 of 3 — Competitors",
+      "title": "Who are your competitors?",
+      "subtitle": "Track how you compare to others in your space",
+      "competitorLabel": "Competitor",
+      "placeholder": "competitor.com",
+      "addAnother": "Add another competitor",
+      "skip": "Skip for now",
+      "start": "Start Tracking",
+      "limitInfo": "Up to 2 competitors in Free plan",
+      "limitInfoDesc": "Track how you compare to your main competitors. Upgrade to Pro for up to 5 competitors.",
+      "limitReached": "Maximum 2 competitors for free plan"
+    },
+    "complete": {
+      "title": "You're all set!",
+      "subtitle": "We're now analyzing your AI visibility across ChatGPT, Claude, Perplexity, and Gemini. This usually takes 5-10 minutes.",
+      "whatNext": "What happens next?",
+      "steps": [
+        "We query AI platforms with your keywords",
+        "We analyze where you appear (and where you don't)",
+        "You'll get your first GEO Score and recommendations"
+      ],
+      "goToDashboard": "Go to Dashboard"
+    }
+  },
+  "sidebar": {
+    "main": "Main",
+    "dashboard": "Dashboard",
+    "domains": "Domains",
+    "keywords": "Keywords",
+    "competitors": "Competitors",
+    "reports": "Reports",
+    "recommendations": "Recommendations",
+    "settings": "Settings",
+    "preferences": "Preferences",
+    "team": "Team",
+    "billing": "Billing",
+    "apiKeys": "API Keys",
+    "integrations": "Integrations",
+    "scheduling": "Scheduling",
+    "profile": "Profile",
+    "comingSoon": "Coming soon",
+    "comingSoonDescription": "This feature is under development and will be available soon!"
+  },
+  "scheduling": {
+    "title": "Scheduling",
+    "subtitle": "Manage automatic queries and report generation",
+    "settingsDesc": "Control when automatic queries and reports run",
+    "keywords": {
+      "title": "Keyword Queries",
+      "autoQueryCount": "{count} of {total} keywords auto-queried",
+      "showMore": "Show {count} more",
+      "showLess": "Show less",
+      "manageKeywords": "View all keywords"
+    },
+    "reports": {
+      "title": "Reports",
+      "autoGenerate": "Auto-generate reports",
+      "sendEmail": "Send reports via email"
+    },
+    "recommendations": {
+      "title": "Recommendations",
+      "autoGenerate": "Auto-generate recommendations",
+      "disabled": "Not available on your plan"
+    },
+    "frequency": "Frequency",
+    "nextRun": "Next run",
+    "lastGenerated": "Last generated",
+    "lastQueried": "Last queried",
+    "used": "{used} / {limit} this month",
+    "neverRun": "Never",
+    "autoOff": "Auto-generation disabled",
+    "planBadge": "{frequency}",
+    "enabled": "Enabled",
+    "notEnabled": "Disabled"
+  },
+  "preferences": {
+    "title": "Preferences",
+    "subtitle": "Manage your language and display preferences",
+    "languageTitle": "Language",
+    "languageDescription": "Choose your preferred language for the interface and AI-generated content",
+    "save": "Save preference",
+    "saved": "Preference saved successfully"
+  },
+  "profile": {
+    "title": "Profile",
+    "subtitle": "Manage your account and workspace settings",
+    "name": "Name",
+    "namePlaceholder": "Your name",
+    "save": "Save",
+    "saved": "Saved successfully",
+    "workspace": "Workspace",
+    "workspaceName": "Workspace Name",
+    "workspaceDesc": "The name of your workspace visible to team members",
+    "email": "Email",
+    "currentEmail": "Current email",
+    "changeEmail": "Change Email",
+    "newEmail": "New Email",
+    "newEmailPlaceholder": "new@example.com",
+    "currentPassword": "Current Password",
+    "sendCode": "Send Verification Code",
+    "codeSent": "Verification code sent to your email",
+    "verificationCode": "Verification Code",
+    "confirmChange": "Confirm Change",
+    "emailChanged": "Email changed successfully",
+    "password": "Password",
+    "changePassword": "Change Password",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm Password",
+    "passwordChanged": "Password changed successfully",
+    "dangerZone": "Danger Zone",
+    "deleteAccount": "Delete Account",
+    "deleteDesc": "Contact support to delete your account",
+    "ownerOnly": "Only workspace owners can change this"
+  },
+  "mentions": {
+    "detailTitle": "AI Analysis Details",
+    "ranked": "Ranked #{position} of {total}",
+    "notRanked": "Not ranked among {total} recommendations",
+    "recommendations": "AI Recommendations",
+    "insights": "Query Insights",
+    "intent": "Intent",
+    "format": "Format",
+    "targetDomain": "Your domain",
+    "viewDomain": "Visit site",
+    "noData": "No recommendation data available",
+    "queriesTitle": "Query History",
+    "queriesSubtitle": "All AI queries for this keyword",
+    "noQueries": "No queries yet for this keyword",
+    "query": "Query",
+    "platform": "Platform",
+    "result": "Result",
+    "date": "Date",
+    "mentioned": "Mentioned",
+    "notMentioned": "Not mentioned",
+    "viewDetails": "View details"
+  },
+  "team": {
+    "subtitle": "Manage team members and permissions",
+    "inviteMember": "Invite Member",
+    "inviteTitle": "Invite Team Member",
+    "inviteDesc": "Send an invitation to join your team.",
+    "emailLabel": "Email address",
+    "roleLabel": "Role",
+    "selectRole": "Select role",
+    "cancel": "Cancel",
+    "sending": "Sending...",
+    "sendInvite": "Send Invite",
+    "membersTitle": "Team Members ({count})",
+    "promoteAdmin": "Promote to Admin",
+    "setEditor": "Set as Editor",
+    "setMember": "Set as Member",
+    "setViewer": "Set as Viewer",
+    "removeFromTeam": "Remove from team",
+    "removeTitle": "Remove Team Member",
+    "removeDesc": "Are you sure you want to remove this team member? They will lose access to the workspace.",
+    "removing": "Removing...",
+    "remove": "Remove",
+    "roles": {
+      "owner": "Owner",
+      "admin": "Admin",
+      "editor": "Editor",
+      "member": "Member",
+      "viewer": "Viewer",
+      "ownerDesc": "Full access to everything",
+      "adminDesc": "Everything except billing",
+      "editorDesc": "Create and manage content",
+      "memberDesc": "Basic access",
+      "viewerDesc": "View-only access"
+    },
+    "invite": {
+      "title": "Team Invitation",
+      "joinWorkspace": "Join {workspace}",
+      "accept": "Accept Invitation",
+      "expired": "This invitation has expired or is invalid",
+      "loginRequired": "Sign up or log in to accept this invitation",
+      "login": "Log In",
+      "signup": "Sign Up",
+      "accepted": "Invitation accepted! Redirecting...",
+      "inviterPlaceholder": "Someone",
+      "inviteMessage": "invited you to join their workspace.",
+      "inviterMessage": "sent an invitation to join",
+      "joinPrefix": "Join",
+      "collaborateMessage": "to collaborate and get access to their resources.",
+      "youInvitedPrefix": "You invited",
+      "youInvitedSuffix": "to join your workspace.",
+      "inviterCollaborateMessage": "will join when they accept the invitation.",
+      "inviterNewMember": "a new member",
+      "declining": "Declining...",
+      "decline": "Decline",
+      "accepting": "Accepting...",
+      "acceptInvite": "Accept Invite",
+      "acceptError": "Failed to accept invitation",
+      "expirationWarning": "Invitation expires in 7 days",
+      "inviterViewOnly": "You sent this invitation. It's pending acceptance.",
+      "expiredMessage": "This invitation has expired or is no longer valid.",
+      "backToHome": "Back to Home",
+      "declined": "Invitation Declined",
+      "declinedMessage": "You've declined this invitation. If this was a mistake, please contact support.",
+      "acceptedMessage": "You've successfully joined the workspace. Redirecting...",
+      "contactSupport": "Contact Support",
+      "declineError": "Failed to decline invitation"
+    }
+  },
+  "emptyStates": {
+    "teamMembers": "No team members yet",
+    "teamMembersDesc": "Invite your team members to collaborate",
+    "apiKeys": "No API keys yet",
+    "apiKeysDesc": "Create your first API key to get started",
+    "integrations": "No integrations available",
+    "integrationsDesc": "Check back soon for more integrations"
+  },
+  "common": {
+    "search": {
+      "placeholder": "Search keywords, competitors, domains...",
+      "shortcut": "⌘K",
+      "keywords": "Keywords",
+      "competitors": "Competitors",
+      "domains": "Domains",
+      "allWorkspaces": "All workspaces",
+      "noResults": "No results found",
+      "typeToSearch": "Type to search..."
+    },
+    "searchPlaceholder": "Search keywords, competitors...",
+    "notifications": {
+      "title": "Notifications",
+      "markAllRead": "Mark all as read",
+      "empty": "No notifications yet",
+      "justNow": "Just now",
+      "minutesAgo": "{count}m ago",
+      "hoursAgo": "{count}h ago",
+      "daysAgo": "{count}d ago"
+    },
+    "newAlerts": "new alerts",
+    "upgrade": "Upgrade to Pro",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "export": "Export",
+    "import": "Import"
+  },
+  "errors": {
+    "auth": {
+      "emailAlreadyRegistered": "This email is already registered",
+      "invalidCredentials": "Invalid email or password",
+      "unauthorized": "Invalid email or password",
+      "registrationFailed": "Registration failed. Please try again.",
+      "loginFailed": "Login failed. Please try again.",
+      "unexpectedError": "An unexpected error occurred",
+      "networkError": "Network error. Please check your connection."
+    },
+    "validation": {
+      "emailInvalid": "Please enter a valid email address",
+      "emailRequired": "Email is required",
+      "passwordRequired": "Password is required",
+      "passwordMinLength": "Password must be at least 8 characters",
+      "nameMinLength": "Name must be at least 2 characters",
+      "termsRequired": "You must accept the terms and conditions",
+      "passwordsDontMatch": "Passwords do not match"
+    }
+  },
+  "notFound": {
+    "tagline": "Oops!",
+    "title": "404",
+    "subtitle": "The page you’re looking for doesn’t exist or has been moved.",
+    "backHome": "Back to Home",
+    "contactSupport": "Contact Support"
+  },
+  "contactPage": {
+    "hero": {
+      "title": "Let’s Talk",
+      "subtitle": "Join us as we explore tailored solutions, discuss industry insights, and collaborate to find the best strategies for your success."
+    },
+    "speakToUs": {
+      "title": "Speak to us",
+      "form": {
+        "fullName": "Full name",
+        "fullNamePlaceholder": "Joe Average",
+        "company": "Company (Optional)",
+        "companyPlaceholder": "Acme Corp",
+        "email": "Email",
+        "emailHint": "(preferred business email)",
+        "emailPlaceholder": "name@company.com",
+        "country": "Country",
+        "countryPlaceholder": "Select country",
+        "companySize": "Company size (Optional)",
+        "companySizePlaceholder": "Select",
+        "referral": "How did you hear about us? (Optional)",
+        "referralPlaceholder": "Select",
+        "message": "Message",
+        "messagePlaceholder": "Enter your message...",
+        "submit": "Send Message"
+      }
+    },
+    "info": {
+      "title": "Contact Us",
+      "subtitle": "Contact the support team at GeoRank.",
+      "email": {
+        "title": "Email",
+        "description": "We respond to all emails within 24 hours.",
+        "value": "contact@georank.site"
+      },
+      "chat": {
+        "title": "Live Chat",
+        "description": "Get instant help from our support team.",
+        "value": "Start Chat"
+      }
+    }
+  },
+  "blogPage": {
+    "featured": {
+      "category": "GEO Strategy",
+      "title": "The Ultimate Guide: How to Get Your Brand Recommended by AI in 2025",
+      "description": "Search has changed forever. Discover how LLMs like ChatGPT and Claude select brands and what you need to do to ensure yours is chosen.",
+      "author": "Alex Rivera",
+      "authorImage": "https://i.pravatar.cc/48?img=15",
+      "date": "Oct 23, 2023",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=800&auto=format&fit=crop"
+    },
+    "topics": {
+      "title": "Explore by topics",
+      "items": [
+        "All Posts",
+        "Strategy",
+        "Engineering",
+        "Product",
+        "Case Studies"
+      ]
+    },
+    "posts": [
+      {
+        "id": "1",
+        "category": "Product",
+        "title": "GeoRank vs SEMrush: Why Traditional SEO Isn't Enough",
+        "description": "Understand the fundamental difference between Google indexing and language model training, and why you need a new strategy.",
+        "author": "Savannah Nguyen",
+        "authorImage": "https://i.pravatar.cc/48?img=25",
+        "date": "Oct 23, 2023",
+        "image": "https://images.unsplash.com/photo-1620712943543-bcc463867000?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "2",
+        "category": "Strategy",
+        "title": "How GEO Score Impacts Your Direct Sales",
+        "description": "We tracked how a 20-point increase in GEO Score resulted in a 15% growth in conversions from Perplexity users.",
+        "author": "Sesar Varma",
+        "authorImage": "https://i.pravatar.cc/48?img=33",
+        "date": "Oct 23, 2023",
+        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "3",
+        "category": "Engineering",
+        "title": "The Science Behind Monitoring Mentions in LLMs",
+        "description": "How we built the system that queries leading AIs hundreds of times a day to ensure accurate visibility data.",
+        "author": "Savannah Nguyen",
+        "authorImage": "https://i.pravatar.cc/48?img=41",
+        "date": "Oct 23, 2023",
+        "image": "https://images.unsplash.com/photo-1551288049-bbdac8a28a1e?q=80&w=800&auto=format&fit=crop"
+      },
+      {
+        "id": "4",
+        "category": "Strategy",
+        "title": "The Future of Brands in a Zero-Click World",
+        "description": "When AI provides the complete answer, how can your brand continue to generate value and be recognized by the consumer?",
+        "author": "Savannah Nguyen",
+        "authorImage": "https://i.pravatar.cc/48?img=52",
+        "date": "Oct 23, 2023",
+        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop"
+      }
+    ],
+    "pagination": {
+      "pageOf": "Page {current} of {total}",
+      "prev": "Previous",
+      "next": "Next"
+    },
+    "postDetail": {
+      "readingTime": "5–7 minute read",
+      "title": "A Comprehensive Guide on Importing Customers",
+      "description": "Delivering a good user experience without compromising the authoring experience required us to rethink data onboarding.",
+      "category": "Compliance",
+      "author": "Savannah Nguyen",
+      "authorImage": "https://i.pravatar.cc/48?img=1",
+      "date": "Oct 23, 2023",
+      "image": "https://images.unsplash.com/photo-1551288049-bbdac8a28a1e?auto=format&fit=crop&q=80&w=1200",
+      "content": "<h2>Why Customer Importing Matters</h2><p>For any SaaS business, importing customer data is one of the most crucial and delicate onboarding steps. Done right, it feels invisible—users see their customers appear instantly, ready to go. Done poorly, it can erode trust in your product before the first session even ends.</p><p>At Metafi, we built a customer import framework that balances flexibility for developers with safety for operators. It’s the bridge between data chaos and a working CRM.</p><h2>Data Sources: CSV, API, and Direct Sync</h2><ul><li><strong>CSV Imports:</strong> Still the most common route. Easy for users but error-prone. We introduced schema detection and instant feedback to validate headers and data types before upload.</li><li><strong>API Imports:</strong> Ideal for power users. APIs let larger clients run nightly syncs. We versioned endpoints, added safe retries, and built audit trails for every record.</li><li><strong>Direct Sync:</strong> Integrations with tools like Salesforce or HubSpot use OAuth2 to ensure secure tokenized access. Data sync happens in near real-time with rollback on any validation failure.</li></ul><h2>Mapping and Validation</h2><p>Every import requires a mapping layer. We designed a guided UI that auto-detects columns but lets users override or ignore fields. Behind the scenes, our validator checks:</p><ul><li>Email and phone format</li><li>Duplicates and conflicts</li><li>Referential integrity (linked accounts or billing info)</li></ul><p>If errors occur, users can download a detailed CSV error report.</p><h2>Safe Retries and Rollbacks</h2><p>Our import pipeline is idempotent. Each row carries a unique checksum. If a retry is triggered, we skip rows that already succeeded, and roll back only the failed subset.<br>That means no duplicate customers and no partial imports that silently break your CRM.</p><h2>Compliance and Security</h2><p>Customer data import isn’t just technical—it’s regulatory. GDPR and CCPA require clear data provenance. We store every import event with metadata (who, when, what source) and allow admins to delete datasets at any time.</p><h2>Lessons Learned</h2><ol><li>Transparency beats magic: Users prefer seeing progress and errors clearly.</li><li>Asynchronous jobs need real-time feedback: a progress bar or webhook beats silent background tasks.</li><li>Validation early saves engineering pain later.</li></ol><p>With these principles, importing customers becomes not just a setup step—but a trust-building moment in your user journey.</p>"
+    }
+  },
+  "privacy": {
+    "tagline": "Legal",
+    "title": "Privacy Policy",
+    "subtitle": "How we collect, use, and protect your personal data.",
+    "updated": "Updated Feb 2026",
+    "lastUpdated": "Last updated: February 17, 2026",
+    "intro": "This Privacy Policy describes how GeoRank (\"we\", \"us\", or \"our\") collects, uses, and shares information when you use our AI search visibility monitoring platform and related services (the \"Service\").",
+    "sections": [
+      {
+        "heading": "Information We Collect",
+        "content": "<p>We collect the following types of information:</p><ul><li><strong>Account Information</strong><br>When you create an account, we collect your name, email address, company name, and billing details.</li><li><strong>Usage Data</strong><br>We automatically collect data about how you interact with the Service, including pages visited, features used, and session duration.</li><li><strong>Monitoring Data</strong><br>When you configure brand monitoring, we collect the brand names, keywords, and AI platform queries you set up. We also store the AI-generated responses and mention data we retrieve on your behalf.</li><li><strong>Device & Log Data</strong><br>We collect IP addresses, browser type, operating system, and device identifiers for security and analytics purposes.</li></ul>"
+      },
+      {
+        "heading": "How We Use Your Information",
+        "content": "<ul><li>To provide, maintain, and improve the Service</li><li>To monitor your brand's visibility across ChatGPT, Claude, Perplexity, and Gemini</li><li>To generate analytics reports, GEO Scores, and actionable recommendations</li><li>To process payments and manage subscriptions</li><li>To send transactional emails (reports, alerts, account notifications)</li><li>To detect and prevent fraud or abuse</li><li>To comply with legal obligations</li></ul>"
+      },
+      {
+        "heading": "Data Sharing",
+        "content": "<p>We do not sell your personal data. We may share your information with:</p><ul><li><strong>Service Providers</strong> — Third-party companies that help us operate the Service (hosting, payment processing, email delivery)</li><li><strong>Analytics Partners</strong> — We use privacy-focused analytics (Umami) that do not use cookies or collect personally identifiable information</li><li><strong>Legal Requirements</strong> — When required by law, regulation, or legal process</li></ul>"
+      },
+      {
+        "heading": "Data Retention",
+        "content": "<p>We retain your account data for as long as your account is active. Monitoring data (AI responses, mention history) is retained for the duration of your subscription plus 30 days after cancellation. You may request deletion of your data at any time.</p>"
+      },
+      {
+        "heading": "Your Rights",
+        "content": "<p>Depending on your jurisdiction, you may have the right to:</p><ul><li>Access the personal data we hold about you</li><li>Request correction of inaccurate data</li><li>Request deletion of your data</li><li>Object to or restrict processing</li><li>Data portability (receive your data in a structured format)</li><li>Withdraw consent at any time</li></ul><p>For users in Brazil, these rights are provided under the LGPD. For users in the EU/EEA, under the GDPR.</p>"
+      },
+      {
+        "heading": "Security",
+        "content": "<p>We implement industry-standard security measures including encryption in transit (TLS), encryption at rest, and access controls. However, no method of transmission or storage is 100% secure.</p>"
+      },
+      {
+        "heading": "Children's Privacy",
+        "content": "<p>The Service is not directed to individuals under 18. We do not knowingly collect personal data from children.</p>"
+      },
+      {
+        "heading": "Changes to This Policy",
+        "content": "<p>We may update this Privacy Policy from time to time. We will notify you of material changes by posting the updated policy on this page and updating the \"Last updated\" date.</p>"
+      }
+    ],
+    "contact": "If you have any questions about this Privacy Policy, contact us at: <email>contact@georank.site</email>"
+  },
+  "terms": {
+    "tagline": "Legal",
+    "title": "Terms of Service",
+    "subtitle": "The rules and guidelines for using the GeoRank platform.",
+    "updated": "Updated Feb 2026",
+    "lastUpdated": "Last updated: February 17, 2026",
+    "intro": "These Terms of Service (\"Terms\") govern your access to and use of the GeoRank platform and related services (the \"Service\"). By using the Service, you agree to be bound by these Terms.",
+    "sections": [
+      {
+        "heading": "1. Service Description",
+        "content": "<p>GeoRank is an AI search visibility monitoring and optimization platform. The Service allows you to:</p><ul><li>Monitor your brand's mentions and visibility across AI platforms (ChatGPT, Claude, Perplexity, Gemini)</li><li>Track GEO Scores and visibility metrics over time</li><li>Analyze competitor presence in AI-generated responses</li><li>Receive actionable recommendations for improving AI search visibility</li><li>Generate automated reports and alerts</li></ul>"
+      },
+      {
+        "heading": "2. Account Registration",
+        "content": "<p>To access the Service, you must create an account with accurate and complete information. You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account.</p>"
+      },
+      {
+        "heading": "3. Acceptable Use",
+        "content": "<p>You agree not to:</p><ul><li>Use the Service for any unlawful purpose</li><li>Attempt to reverse-engineer, decompile, or disassemble any part of the Service</li><li>Scrape, crawl, or use automated means to access the Service beyond the provided API</li><li>Interfere with or disrupt the Service or its infrastructure</li><li>Resell or redistribute the Service without our written consent</li><li>Use the Service to monitor brands or entities you are not authorized to represent</li></ul>"
+      },
+      {
+        "heading": "4. Subscriptions & Billing",
+        "content": "<p>The Service is offered through subscription plans. By subscribing, you agree to pay the applicable fees. Subscriptions automatically renew unless cancelled before the end of the current billing period.</p><ul><li><strong>Free Plan</strong> — Limited features, no payment required</li><li><strong>Paid Plans</strong> — Billed monthly or annually with access to premium features</li><li><strong>Enterprise</strong> — Custom pricing, contact sales for details</li></ul><p>All fees are non-refundable except where required by applicable law.</p>"
+      },
+      {
+        "heading": "5. Intellectual Property",
+        "content": "<p>The Service, including its original content, features, and functionality, is owned by GeoRank and protected by international copyright, trademark, and other intellectual property laws.</p><p>You retain ownership of any data or content you provide to the Service. By using the Service, you grant us a limited license to use your data solely to provide and improve the Service.</p>"
+      },
+      {
+        "heading": "6. Data & Privacy",
+        "content": "<p>Your use of the Service is also governed by our <a href=\"/privacy\">Privacy Policy</a>. The monitoring data we collect on your behalf (AI responses, mention data) is processed solely for the purpose of providing the Service.</p>"
+      },
+      {
+        "heading": "7. Limitation of Liability",
+        "content": "<p>To the maximum extent permitted by law, GeoRank shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of profits, data, or business opportunities.</p><p>The Service monitors third-party AI platforms. We do not guarantee the accuracy, completeness, or reliability of data retrieved from these platforms, as their responses may change at any time.</p>"
+      },
+      {
+        "heading": "8. Termination",
+        "content": "<p>We may suspend or terminate your access to the Service at any time, with or without cause, with or without notice. Upon termination, your right to use the Service ceases immediately. You may export your data within 30 days of termination.</p>"
+      },
+      {
+        "heading": "9. Changes to Terms",
+        "content": "<p>We reserve the right to modify these Terms at any time. We will provide notice of material changes via email or through the Service. Continued use of the Service after changes constitutes acceptance of the new Terms.</p>"
+      },
+      {
+        "heading": "10. Governing Law",
+        "content": "<p>These Terms are governed by the laws of the Federative Republic of Brazil. Any disputes shall be resolved in the courts of Brazil.</p>"
+      }
+    ],
+    "contact": "If you have any questions about these Terms, contact us at: <email>contact@georank.site</email>"
+  },
+  "cookiePolicy": {
+    "tagline": "Legal",
+    "title": "Cookie Policy",
+    "subtitle": "What cookies are, the types we use, and how you can control them.",
+    "updated": "Updated Feb 2026",
+    "lastUpdated": "Last updated: February 17, 2026",
+    "intro": "This Cookie Policy explains how GeoRank uses cookies and similar technologies on our website. By using the Service, you agree to the use of cookies as outlined in this policy.",
+    "sections": [
+      {
+        "heading": "What Are Cookies?",
+        "content": "<p>Cookies are small text files stored on your device when you visit a website. They help the site recognize your device and store information about your preferences or past actions.</p>"
+      },
+      {
+        "heading": "Types of Cookies We Use",
+        "content": "<ul><li><strong>Essential Cookies</strong><br>Necessary for the website to function properly. They enable core features such as authentication, security, network management, and accessibility. These cookies cannot be disabled.</li><li><strong>Analytics Cookies</strong><br>Help us understand how visitors interact with the site. We use Umami, a privacy-focused analytics tool that does not use cookies for tracking and does not collect personally identifiable information.</li><li><strong>Functionality Cookies</strong><br>Allow the website to remember choices you make (such as your preferred language, theme preferences, or dashboard layout) and provide enhanced features.</li></ul>"
+      },
+      {
+        "heading": "Third-Party Cookies",
+        "content": "<p>We minimize the use of third-party cookies. Our analytics solution (Umami) is self-hosted and privacy-focused. We do not use advertising cookies or share cookie data with advertisers.</p>"
+      },
+      {
+        "heading": "Managing Cookies",
+        "content": "<p>Most web browsers allow you to control cookies through settings. You can usually configure your browser to:</p><ul><li>Accept or reject all cookies</li><li>Notify you when a cookie is set</li><li>Delete cookies manually or automatically</li></ul><p>Please note that disabling essential cookies may affect the functionality of the Service.</p>"
+      },
+      {
+        "heading": "More Information",
+        "content": "<p>For more details on how we handle personal data, please see our <a href=\"/privacy\">Privacy Policy</a>.</p>"
+      }
+    ],
+    "contact": "If you have any questions about this Cookie Policy, contact us at: <email>contact@georank.site</email>"
+  },
+  "lp-ai-visibility": {
+    "hero": {
+      "title": "AI is recommending your competitors. Not you.",
+      "subtitle": "See how ChatGPT, Claude, and Perplexity rank your brand — and what to do about it.",
+      "cta": "Check My AI Visibility - Free",
+      "inputPlaceholder": "yourbrand.com",
+      "trust": "Free forever plan · No credit card required · Results in 30 seconds"
+    },
+    "bullets": {
+      "item1": {
+        "title": "Know exactly where you stand",
+        "description": "See every time AI mentions your brand. Track your visibility score across ChatGPT, Claude, Perplexity, and 3 more platforms in real time."
+      },
+      "item2": {
+        "title": "Outrank your competitors in AI results",
+        "description": "Discover who AI recommends instead of you and why. Get a clear playbook to overtake them."
+      },
+      "item3": {
+        "title": "Turn insights into revenue",
+        "description": "Get AI-powered recommendations that tell you exactly what to change. Brands using GeoRank see up to 340% more AI mentions in 8 weeks."
+      }
+    }
+  }
+}

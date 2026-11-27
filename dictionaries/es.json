@@ -1,0 +1,1261 @@
+{
+  "metadata": {
+    "title": "GeoRank - Sé descubierto por IA. No solo por Google.",
+    "description": "Monitorea y optimiza la visibilidad de tu marca en las respuestas de ChatGPT, Claude, Perplexity y Gemini. La herramienta SEO para la era de la IA."
+  },
+  "nav": {
+    "features": "Características",
+    "integrations": "Integraciones",
+    "pricing": "Precios",
+    "resources": "Recursos",
+    "blog": "Blog",
+    "docs": "Docs",
+    "contact": "Contacto",
+    "about": "Sobre Nosotros",
+    "login": "Entrar",
+    "startFree": "Empezar Gratis"
+  },
+  "hero": {
+    "badge": "SEO para la era de la IA",
+    "title": "Simplificando la visibilidad en la",
+    "titleHighlight": "era de la búsqueda por IA",
+    "subtitle": "Monitorea y optimiza la visibilidad de tu marca en ChatGPT, Claude, Perplexity y Gemini. El Ahrefs/SEMrush de la búsqueda por IA.",
+    "ctaPrimary": "Empezar Ahora",
+    "ctaSecondary": "Contáctenos",
+    "trust": "Sin tarjeta de crédito • 14 días gratis • Cancela cuando quieras"
+  },
+  "socialProof": {
+    "title": "Más de 2,000 marcas innovadoras confían en nosotros"
+  },
+  "problem": {
+    "title": "La confianza de equipos que dominan la búsqueda IA",
+    "subtitle": "GeoRank ayuda a equipos de marketing a maximizar la visibilidad de su marca en ChatGPT, Claude, Perplexity y Gemini con monitoreo potenciado por IA e insights accionables.",
+    "stats": {
+      "brands": "2,000+",
+      "brandsLabel": "Marcas",
+      "mentions": "1M+",
+      "mentionsLabel": "Menciones",
+      "platforms": "4",
+      "platformsLabel": "Plataformas",
+      "insights": "<24h",
+      "insightsLabel": "Primeros Insights"
+    }
+  },
+  "features": {
+    "title": "Todo lo que necesitas para dominar la búsqueda IA",
+    "subtitle": "Todas las herramientas e insights necesarios para monitorear y optimizar la visibilidad de tu marca en plataformas de IA. Toma el control de tu presencia en búsqueda IA con nuestras soluciones integrales.",
+    "items": [
+      {
+        "title": "Monitoreo en Tiempo Real",
+        "description": "Rastrea las menciones de tu marca en ChatGPT, Claude, Perplexity y Gemini. Sabe al instante cuando la IA comienza—o deja de—recomendarte."
+      },
+      {
+        "title": "Inteligencia Competitiva",
+        "description": "Ve exactamente a quién recomienda la IA en lugar de ti. Entiende por qué los competidores rankean más alto y qué contenido los hace citables."
+      },
+      {
+        "title": "Recomendaciones Accionables",
+        "description": "Obtén acciones específicas y priorizadas para mejorar tu visibilidad en IA. No solo datos—pasos claros para implementar hoy."
+      },
+      {
+        "title": "Puntuación de Visibilidad",
+        "description": "Rastrea tu GEO Score a lo largo del tiempo. Ve cómo las optimizaciones impactan tu descubribilidad en IA con métricas claras de antes/después."
+      },
+      {
+        "title": "Alertas Instantáneas",
+        "description": "Recibe notificaciones cuando tu visibilidad cambie, cuando los competidores ganen terreno, o cuando surjan nuevas oportunidades."
+      },
+      {
+        "title": "Reportes Automatizados",
+        "description": "Reportes semanales y mensuales entregados a tu correo. Comparte el progreso con stakeholders sin mover un dedo."
+      },
+      {
+        "title": "Integraciones y API",
+        "description": "Conecta con Slack, Zapier y más. Acceso completo a la API para crear flujos de trabajo y dashboards personalizados."
+      }
+    ]
+  },
+  "integrationsSection": {
+    "tagline": "Integraciones",
+    "title": "Conecta Tu Flujo de Trabajo con Integraciones Poderosas",
+    "subtitle": "Optimiza tu flujo de trabajo de visibilidad IA con integraciones perfectas. Recibe notificaciones, automatiza acciones y conecta GeoRank con las herramientas que tu equipo ya usa.",
+    "cta": "Comienza Gratis",
+    "items": [
+      {
+        "name": "Slack",
+        "description": "Recibe notificaciones en tiempo real en tus canales de Slack cuando tu marca sea mencionada o cambien los rankings en plataformas IA."
+      },
+      {
+        "name": "Discord",
+        "description": "Recibe alertas instantáneas en tu servidor de Discord con embeds enriquecidos cuando tus métricas de visibilidad IA cambien."
+      },
+      {
+        "name": "Zapier",
+        "description": "Conecta GeoRank con miles de apps. Automatiza flujos de trabajo y activa acciones basadas en eventos de visibilidad IA."
+      },
+      {
+        "name": "Webhooks",
+        "description": "Envía datos a cualquier endpoint personalizado. Construye tus propias integraciones con payloads webhook firmados con HMAC."
+      },
+      {
+        "name": "Notificaciones Email",
+        "description": "Recibe actualizaciones detalladas por email y resúmenes semanales sobre el rendimiento de visibilidad IA de tu marca."
+      },
+      {
+        "name": "Google Analytics",
+        "description": "Rastrea el tráfico de referencia IA y mide cómo la visibilidad en búsqueda IA se traduce en visitas reales a tu sitio."
+      }
+    ],
+    "comingSoonBadge": "En desarrollo",
+    "comingSoonMessage": "Las integraciones están en desarrollo y estarán disponibles pronto. ¡Regístrate para ser notificado cuando estén listas!"
+  },
+  "howItWorks": {
+    "title": "Comienza en menos de 2 minutos",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Agrega tu marca",
+        "description": "Ingresa tu dominio y las keywords que importan para tu negocio. Nosotros nos encargamos del resto."
+      },
+      {
+        "number": "02",
+        "title": "Consultamos las plataformas de IA",
+        "description": "Nuestro sistema consulta automáticamente ChatGPT, Claude, Perplexity y Gemini con prompts relevantes—cientos de veces por día."
+      },
+      {
+        "number": "03",
+        "title": "Obtén insights y actúa",
+        "description": "Ve dónde apareces, dónde no, y exactamente qué hacer al respecto. Recomendaciones accionables, no solo dashboards."
+      }
+    ]
+  },
+  "dashboardPreview": {
+    "title": "Insights poderosos. Cero complejidad.",
+    "subtitle": "Un dashboard que te muestra lo que importa. Sin necesidad de doctorado.",
+    "metrics": {
+      "geoScore": "GEO Score: 73/100",
+      "mentions": "Menciones IA: 847 este mes",
+      "competitor": "Top competidor: Notion (89/100)"
+    }
+  },
+  "testimonials": {
+    "tagline": "Nuestros Clientes",
+    "title": "Mira Lo Que Dicen Nuestros Clientes",
+    "subtitle": "Esto es lo que algunos de nuestros clientes dicen sobre nuestra plataforma.",
+    "cta": "Ver Todas las Historias",
+    "ctaLess": "Mostrar Menos",
+    "items": [
+      {
+        "quote": "La visibilidad en IA es el nuevo campo de batalla para las marcas, y GeoRank nos dio la ventaja. Aumentamos nuestras menciones en ChatGPT un 340% en solo 8 semanas.",
+        "author": "Charolette Hanlin",
+        "role": "Co-Fundadora, NovaBrand"
+      },
+      {
+        "quote": "Solo el análisis de competidores vale 10x el precio. Podemos ver exactamente por qué otros son recomendados sobre nosotros y qué hacer al respecto.",
+        "author": "Novák Balázs",
+        "role": "Co-Fundador, ScaleUp Digital"
+      },
+      {
+        "quote": "Las recomendaciones accionables de GeoRank transformaron nuestra estrategia de contenido. Pasamos de ser invisibles a top-3 en las respuestas de Claude.",
+        "author": "Orosz Boldizsár",
+        "role": "Fundador, ContentFlow"
+      },
+      {
+        "quote": "El seguimiento del GEO Score es brillante. Finalmente podemos medir cómo nuestras optimizaciones impactan la descubribilidad en IA con métricas claras de antes/después.",
+        "author": "Floyd Miles",
+        "role": "Co-Fundador, GrowthHQ"
+      },
+      {
+        "quote": "Finalmente, una herramienta que entiende el futuro de la búsqueda. Nuestro tráfico orgánico de referencias de IA ahora es el 15% del total.",
+        "author": "Darrell Steward",
+        "role": "Fundador, BrightPath"
+      },
+      {
+        "quote": "Desde que usamos GeoRank, nuestra marca es mencionada consistentemente en ChatGPT, Claude y Perplexity. El ROI habla por sí solo.",
+        "author": "Devon Lane",
+        "role": "Marketing, DataPulse"
+      },
+      {
+        "quote": "Consolidamos todo nuestro stack de monitoreo IA en GeoRank—los reportes y el seguimiento de visibilidad finalmente son claros.",
+        "author": "Jenny Wilson",
+        "role": "CFO, Pinnacle Labs"
+      },
+      {
+        "quote": "Solo los reportes automatizados pagaron la suscripción en menos de un mes. A nuestros ejecutivos les encantan los resúmenes semanales.",
+        "author": "Jacob Jones",
+        "role": "VP Ops, Horizon Tech"
+      },
+      {
+        "quote": "La integración de GeoRank con Slack significa que nuestro equipo detecta cada mención en el momento. El tiempo de respuesta pasó de días a horas.",
+        "author": "Eleanor Pena",
+        "role": "Head of Product, CloudBase"
+      },
+      {
+        "quote": "Nuestro equipo de marketing finalmente disfruta las revisiones mensuales. Los gráficos de tendencia del GEO Score hacen que comunicar el progreso sea fácil.",
+        "author": "Courtney Henry",
+        "role": "Marketing Lead, Vantage AI"
+      },
+      {
+        "quote": "La plataforma nos dio visibilidad en búsqueda IA que no sabíamos que nos faltaba. Un cambio total para nuestra estrategia de contenido.",
+        "author": "Leslie Alexander",
+        "role": "Director, NexGen Digital"
+      },
+      {
+        "quote": "Desde seguimiento de keywords hasta benchmarks de competidores—todo vive en un solo dashboard ahora. Exactamente lo que necesitábamos.",
+        "author": "Guy Hawkins",
+        "role": "Fundador, LaunchPad Co"
+      }
+    ]
+  },
+  "pricing": {
+    "tagline": "Precios",
+    "title": "Precios simples y transparentes",
+    "subtitle": "Comienza gratis. Actualiza cuando estés listo.",
+    "monthly": "Mensual",
+    "yearly": "Anual",
+    "yearlySave": "Ahorra 20%",
+    "saveOff": "en la facturación anual",
+    "perMonth": "/mes",
+    "mostPopular": "Más Popular",
+    "limitedPlan": "Plano limitado",
+    "startTrial": "Empezar ahora",
+    "getStarted": "Prueba gratis",
+    "contactSales": "Contactar Ventas",
+    "custom": "Personalizado",
+    "plans": {
+      "free": {
+        "name": "Free",
+        "price": "0",
+        "yearlyPrice": "0",
+        "description": "Monitoreo básico de visibilidade IA",
+        "features": [
+          "1 dominio",
+          "3 keywords rastreadas",
+          "Reportes mensuales (AI+PDF)",
+          "Monitoreo GPT + Gemini",
+          "1 miembro del equipo",
+          "6 consultas/mes"
+        ]
+      },
+      "first_movers": {
+        "name": "First Movers",
+        "price": "5",
+        "yearlyPrice": "4",
+        "description": "El inicio perfecto para early adopters",
+        "features": [
+          "1 dominio",
+          "15 keywords rastreadas",
+          "Reportes semanales",
+          "2 plataformas IA (ChatGPT, Gemini)",
+          "1 competidor rastreado",
+          "Recomendaciones IA semanales",
+          "120 consultas/mes"
+        ]
+      },
+      "starter": {
+        "name": "Starter",
+        "price": "49",
+        "yearlyPrice": "39",
+        "description": "Para marcas pequeñas que van en serio",
+        "features": [
+          "2 dominios",
+          "50 keywords rastreadas",
+          "Reportes semanales",
+          "4 plataformas IA (ChatGPT, Gemini, DeepSeek, Grok)",
+          "3 competidores rastreados",
+          "Recomendaciones IA semanales",
+          "Acceso API (próximamente)",
+          "3 miembros del equipo (próximamente)",
+          "800 consultas/mes"
+        ]
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "99",
+        "yearlyPrice": "79",
+        "description": "Monitoreo completo para marcas en crecimiento",
+        "features": [
+          "5 dominios",
+          "200 keywords rastreadas",
+          "Reportes diarios",
+          "Las 6 plataformas incl. Claude & Perplexity",
+          "2× más consultas diarias que Starter",
+          "10 competidores rastreados",
+          "Recomendaciones IA diarias",
+          "API + Integraciones (próximamente)",
+          "10 miembros del equipo (próximamente)",
+          "36,000 consultas/mes"
+        ]
+      },
+      "agency": {
+        "name": "Agencia",
+        "price": "249",
+        "yearlyPrice": "199",
+        "description": "Solución en escala para agencias",
+        "features": [
+          "15 dominios",
+          "500 keywords rastreadas",
+          "Reportes diarios",
+          "Las 6 plataformas incl. Claude & Perplexity",
+          "6× más consultas diarias que Starter",
+          "50 competidores rastreados",
+          "Recomendaciones IA diarias",
+          "API + Integraciones (próximamente)",
+          "50 miembros del equipo (próximamente)",
+          "90.000 consultas/mes"
+        ]
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "price": "0",
+        "yearlyPrice": "0",
+        "description": "Escala masiva y requisitos personalizados",
+        "features": [
+          "Dominios y keywords personalizados",
+          "Las 6 plataformas IA",
+          "Límites de consultas diarias personalizados",
+          "Competidores personalizados",
+          "API + Integraciones personalizadas (próximamente)",
+          "Tamaño de equipo personalizado (próximamente)",
+          "Gerente de cuenta dedicado",
+          "SLA personalizado"
+        ]
+      }
+    }
+  },
+  "faq": {
+    "tagline": "FAQ",
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Todo lo que necesitas saber sobre GeoRank y cómo ayuda a tu marca a dominar los resultados de búsqueda IA.",
+    "items": [
+      {
+        "question": "¿Qué plataformas de IA rastrean?",
+        "answer": "Actualmente monitoreamos ChatGPT, Claude, Perplexity, Google Gemini, DeepSeek y más—siempre usando los modelos más recientes y robustos disponibles. Agregamos nuevas plataformas continuamente a medida que ganan cuota de mercado."
+      },
+      {
+        "question": "¿Con qué frecuencia se actualizan los datos?",
+        "answer": "GeoRank funciona de dos formas: las consultas de keywords y recomendaciones se generan basándose en los datos de entrenamiento de cada modelo de IA, dándote una imagen base de tu visibilidad. Para insights más profundos, nuestro sistema realiza una investigación profunda en tiempo real—analizando tus dominios, keywords y recomendaciones—para generar un informe completo sobre la presencia de tu marca en IA.\n\nLa frecuencia depende de tu plan: Free actualiza mensualmente, First Movers y Starter semanalmente, Pro y Agency diariamente, y Enterprise hasta cada hora."
+      },
+      {
+        "question": "¿Qué es un \"GEO Score\"?",
+        "answer": "Tu GEO Score (0-100) mide qué tan frecuente y prominentemente la IA menciona tu marca para tus keywords rastreadas. Más alto es mejor."
+      },
+      {
+        "question": "¿Puedo rastrear competidores?",
+        "answer": "¡Sí! El rastreo de competidores comienza desde el plan First Movers (1 competidor) y escala: Starter rastrea 3, Pro rastrea 10, y Agency hasta 50. Los planes Enterprise tienen rastreo de competidores prácticamente ilimitado. Ve exactamente a quién recomienda la IA en lugar de ti y por qué."
+      },
+      {
+        "question": "¿Puedo probar antes de suscribirme?",
+        "answer": "¡Sí! Ofrecemos un plan gratuito para que puedas explorar GeoRank sin compromiso. Cuando estés listo para actualizar, puedes cancelar en cualquier momento—sin contratos, sin tarifas de cancelación."
+      },
+      {
+        "question": "¿Hay una API?",
+        "answer": "El acceso a la API está disponible desde el plan Starter en adelante. Puedes integrar datos de GeoRank en tus dashboards, flujos de trabajo y herramientas personalizadas."
+      },
+      {
+        "question": "¿Agregan nuevas funcionalidades y modelos de IA con el tiempo?",
+        "answer": "¡Absolutamente! GeoRank es un producto en etapa temprana con un ambicioso roadmap a mediano plazo. Actualizamos nuestros modelos de IA con cada nueva generación lanzada por cada plataforma, asegurando que siempre tengas los modelos más recientes y capaces.\n\nEstamos construyendo activamente: desgloses de visibilidad por modelo, región y audiencia, puntuación de visibilidad de marca, métricas de visibilidad por fuente, rastreo de citaciones, prompts sugeridos, y mucho más. Nuevas funcionalidades se lanzan regularmente—mantente atento."
+      }
+    ]
+  },
+  "blogSection": {
+    "tagline": "Nuestro Blog",
+    "title": "Últimas Publicaciones",
+    "subtitle": "Estrategias e insights sobre visibilidad en búsqueda IA, optimización GEO y el futuro del descubrimiento de marcas.",
+    "items": [
+      {
+        "category": "Estrategia GEO",
+        "title": "Cómo la Búsqueda IA Está Transformando el Descubrimiento de Marcas en 2025",
+        "description": "Descubre cómo ChatGPT, Claude y Perplexity están cambiando la forma en que los consumidores encuentran y eligen marcas—y qué puedes hacer al respecto.",
+        "author": "Alex Rivera",
+        "date": "15 Ene, 2025"
+      },
+      {
+        "category": "Guías",
+        "title": "La Guía Completa de Optimización para Motores Generativos",
+        "description": "Todo lo que necesitas saber sobre optimizar la visibilidad de tu marca en motores de búsqueda impulsados por IA y asistentes conversacionales.",
+        "author": "Sarah Chen",
+        "date": "8 Ene, 2025"
+      },
+      {
+        "category": "Visibilidad IA",
+        "title": "Por Qué Tu Marca es Invisible para ChatGPT (Y Cómo Solucionarlo)",
+        "description": "La mayoría de las marcas no aparecen en las recomendaciones de IA. Aprende los factores clave que determinan si los modelos de IA mencionan tu marca.",
+        "author": "Marcus Johnson",
+        "date": "28 Dic, 2024"
+      },
+      {
+        "category": "Analíticas",
+        "title": "Rastreando Menciones IA: Las Métricas Que Realmente Importan",
+        "description": "No todas las menciones de IA son iguales. Aprende en qué métricas enfocarte y cómo medir tu verdadera visibilidad en búsqueda IA.",
+        "author": "Elena Costa",
+        "date": "20 Dic, 2024"
+      }
+    ]
+  },
+  "keyFeatures": {
+    "tagline": "Capacidades",
+    "title": "Construido para la visibilidad IA moderna",
+    "subtitle": "Todas las herramientas que necesitas para monitorear, analizar y optimizar tu presencia en plataformas de IA.",
+    "items": [
+      {
+        "title": "Keywords",
+        "description": "Configura las keywords que importan para tu negocio. Consultamos plataformas de IA con prompts relevantes cientos de veces al día."
+      },
+      {
+        "title": "Insights Basados en Datos",
+        "description": "Usa datos reales para entender qué hace que la IA te recomiende a ti o a tus competidores. Encuentra patrones, no suposiciones."
+      },
+      {
+        "title": "Dominios",
+        "description": "Agrega todos tus dominios y rastrea cómo cada uno se desempeña en plataformas de IA. Soporte multi-dominio integrado."
+      },
+      {
+        "title": "Fuentes Clave",
+        "description": "Descubre qué sitios web y fuentes usa la IA para formar sus recomendaciones. Sabe dónde enfocar tus esfuerzos."
+      }
+    ]
+  },
+  "reportsSection": {
+    "title": "Comparte insights, no hojas de cálculo",
+    "subtitle": "Descubre cómo se desempeña tu marca en los motores de respuesta de IA — y encuentra las oportunidades para superar a la competencia.",
+    "cta": "Comenzar a monitorear",
+    "checklistLabel": "Obtén insights sobre:",
+    "checklist": [
+      "Puntuación de Visibilidad IA",
+      "Rankings de Keywords",
+      "Citaciones de Fuentes",
+      "Análisis de Competidores"
+    ]
+  },
+  "cta": {
+    "title": "Haz que tu marca aparezca en",
+    "subtitle": "Monitorea y optimiza cómo las plataformas de IA recomiendan tu marca a millones de usuarios",
+    "button": "Prueba gratis",
+    "ctaSecondary": "Hablar con Ventas"
+  },
+  "footer": {
+    "product": {
+      "title": "Producto",
+      "links": [
+        "Características",
+        "Integraciones",
+        "Precios"
+      ]
+    },
+    "company": {
+      "title": "Soporte",
+      "links": [
+        "Contacto"
+      ]
+    },
+    "legal": {
+      "title": "Legal",
+      "links": [
+        "Política de Privacidad",
+        "Términos de Servicio",
+        "Política de Cookies"
+      ]
+    },
+    "copyright": "© 2025 GeoRank. Todos los derechos reservados."
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "subtitle": "Monitorea y optimiza la visibilidad de tu marca en la búsqueda por IA.",
+    "geoScore": "GEO Score",
+    "aiMentions": "Menciones IA",
+    "keywordsTracked": "Keywords Rastreadas",
+    "bestRanking": "Mejor Ranking",
+    "thisMonth": "este mes",
+    "vsLastWeek": "vs semana pasada",
+    "vsLastMonth": "vs mes pasado",
+    "limit": "límite",
+    "addKeyword": "Agregar keyword",
+    "upgrade": "Mejorar Plan",
+    "trendingUp": "Tendencia al alza este mes",
+    "trendingDown": "Tendencia a la baja este mes",
+    "trendingStable": "Desempeño estable",
+    "geoScoreContext": "GEO Score en los últimos 7 días",
+    "mentionsContext": "Menciones IA en los últimos 30 dias",
+    "keywordsContext": "Límite basado en tu plan",
+    "rankingContext": "Promedio de posición en el periodo",
+    "visibility": {
+      "title": "Visibilidad en el Tiempo",
+      "subtitle": "Tendencia de tu GEO Score en todas las plataformas",
+      "upgradeTitle": "Mejora tu plan para ver tendencias de visibilidad",
+      "upgradeDescription": "Rastrea tu visibilidad en IA a lo largo del tiempo con un plan de pago"
+    },
+    "recentMentions": {
+      "title": "Menciones Recientes",
+      "subtitle": "Últimas respuestas de IA mencionando tu marca",
+      "viewAll": "Ver todas las menciones",
+      "mentioned": "Mencionado",
+      "notMentioned": "No mencionado",
+      "deletedKeyword": "Keyword eliminada"
+    },
+    "topKeywords": {
+      "title": "Top Keywords",
+      "subtitle": "Tus mejores keywords por GEO Score",
+      "viewAll": "Ver todas las keywords",
+      "keyword": "Keyword",
+      "score": "Score",
+      "trend": "Tendencia",
+      "status": "Estado"
+    },
+    "competitors": {
+      "title": "Comparación de Competidores",
+      "subtitle": "Cómo te comparas con competidores rastreados",
+      "viewDetails": "Ver detalles de competidores",
+      "upgradeTitle": "Mejora tu plan para rastrear competidores",
+      "upgradeDescription": "Compara tu marca con competidores con un plan de pago"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Bienvenido de vuelta",
+      "subtitle": "Inicia sesión en tu cuenta",
+      "email": "Correo electrónico",
+      "emailPlaceholder": "tu@empresa.com",
+      "password": "Contraseña",
+      "passwordPlaceholder": "••••••••",
+      "forgotPassword": "¿Olvidaste tu contraseña?",
+      "button": "Iniciar sesión",
+      "welcomeBack": "¡Bienvenido de nuevo! Por favor, introduce teus dados",
+      "orContinue": "O inicia sesión con",
+      "google": "Iniciar sesión con Google",
+      "facebook": "Iniciar sesión con Facebook",
+      "noAccount": "¿No tienes una cuenta?",
+      "signUp": "Regístrate"
+    },
+    "signup": {
+      "title": "Crea tu cuenta",
+      "subtitle": "Únete a GeoRank y sé descubierto por IA.",
+      "name": "Nombre completo",
+      "namePlaceholder": "Juan Pérez",
+      "email": "Email",
+      "emailPlaceholder": "juanperez@mail.com",
+      "password": "Contraseña",
+      "passwordPlaceholder": "Contraseña",
+      "repeatPassword": "Repetir Contraseña",
+      "repeatPasswordPlaceholder": "Repetir Contraseña",
+      "passwordHelper": "Mínimo 8 caracteres",
+      "terms": "Acepto los Términos de Servicio y Política de Privacidad",
+      "button": "Registrarse",
+      "orContinue": "O Regístrate con",
+      "google": "Registrarse con Google",
+      "facebook": "Registrarse con Facebook",
+      "hasAccount": "¿Ya tienes una cuenta?",
+      "logIn": "Iniciar sesión",
+      "verifyTitle": "Revisa tu email",
+      "verifySubtitle": "Enviamos un código de 6 dígitos a {email}",
+      "codeLabel": "Código de Verificación",
+      "codePlaceholder": "000000",
+      "verifyButton": "Verificar Email",
+      "resendPrompt": "¿No lo recibiste?",
+      "resend": "Reenviar código"
+    },
+    "forgotPassword": {
+      "title": "Restablecer contraseña",
+      "subtitle": "Ingresa tu email y te enviaremos un enlace para restablecer",
+      "email": "Correo electrónico",
+      "emailPlaceholder": "tu@empresa.com",
+      "button": "Enviar enlace",
+      "backToLogin": "Volver al login"
+    }
+  },
+  "keywords": {
+    "title": "Keywords",
+    "subtitle": "Gestiona y monitorea tus keywords rastreadas",
+    "addKeyword": "Agregar Keyword",
+    "allDomains": "Todos los Dominios",
+    "allPlatforms": "Todas las Plataformas",
+    "allStatus": "Todos los Estados",
+    "sortBy": "Ordenar por",
+    "score": "Score",
+    "recent": "Reciente",
+    "alphabetical": "Alfabético",
+    "table": {
+      "keyword": "Keyword",
+      "domain": "Dominio",
+      "platforms": "Plataformas",
+      "score": "Score",
+      "trend": "Tendencia (7d)",
+      "mentions": "Menciones",
+      "status": "Estado",
+      "autoQuery": "Auto",
+      "actions": "Acciones"
+    },
+    "status": {
+      "ranking": "Rankeando",
+      "improving": "Mejorando",
+      "needsWork": "Necesita trabajo",
+      "notRanking": "Sin ranking"
+    },
+    "addModal": {
+      "title": "Agregar Nueva Keyword",
+      "subtitle": "Ingresa una keyword o frase para rastrear en plataformas de IA",
+      "label": "Keyword",
+      "placeholder": "ej., \"mejor herramienta de gestión de proyectos\"",
+      "helper": "Usa consultas en lenguaje natural que tus clientes podrían preguntar a la IA",
+      "platformsLabel": "Plataformas a monitorear",
+      "domainLabel": "Dominio",
+      "domainPlaceholder": "Selecciona un dominio",
+      "cancel": "Cancelar",
+      "add": "Agregar Keyword"
+    },
+    "generateQuery": {
+      "trigger": "Generar Consulta Ahora",
+      "title": "Generar Consulta Ahora",
+      "subtitle": "Selecciona keywords y plataformas de IA para consultar",
+      "usageTitle": "Uso Mensual",
+      "used": "usadas",
+      "keywordsSection": "Keywords",
+      "selectAll": "Seleccionar Todas",
+      "deselectAll": "Deseleccionar Todas",
+      "platformsSection": "Plataformas de IA",
+      "remaining": "{count} consultas restantes después",
+      "overLimit": "Consultas insuficientes. Necesitas {needed} pero solo tienes {available}.",
+      "quotaExhausted": "Necesitas {needed}, pero ya usaste toda tu cuota mensual.",
+      "generate": "Generar",
+      "generating": "Generando...",
+      "cancel": "Cancelar"
+    },
+    "empty": {
+      "title": "Sin keywords aún",
+      "description": "Agrega tu primera keyword para comenzar a rastrear tu visibilidad en IA",
+      "button": "Agregar Tu Primera Keyword"
+    }
+  },
+  "domains": {
+    "title": "Dominios",
+    "subtitle": "Gestiona los dominios que estás rastreando en plataformas de IA",
+    "addDomain": "Agregar Dominio",
+    "usage": "usados",
+    "geoScore": "GEO Score",
+    "keywords": "keywords",
+    "lastScanned": "Último análisis",
+    "never": "Nunca",
+    "addModal": {
+      "title": "Agregar Dominio",
+      "subtitle": "Ingresa el dominio que deseas rastrear",
+      "urlLabel": "URL del Dominio",
+      "urlPlaceholder": "ejemplo.com",
+      "nameLabel": "Nombre de Visualización",
+      "namePlaceholder": "Mi Empresa",
+      "cancel": "Cancelar",
+      "add": "Agregar Dominio"
+    },
+    "editModal": {
+      "title": "Editar Dominio",
+      "subtitle": "Actualiza los detalles del dominio"
+    },
+    "deleteConfirm": {
+      "title": "Eliminar Dominio",
+      "description": "Esto eliminará permanentemente este dominio y desasociará todas las keywords. Esta acción no se puede deshacer."
+    },
+    "empty": {
+      "title": "Sin dominios aún",
+      "description": "Agrega tu primer dominio para comenzar a rastrear la visibilidad en IA."
+    }
+  },
+  "competitors": {
+    "title": "Competidores",
+    "subtitle": "Rastrea y analiza tu competencia en búsqueda IA",
+    "addCompetitor": "Agregar Competidor",
+    "usage": "competidores rastreados",
+    "upgradeUnlimited": "Actualiza para ilimitados",
+    "pointsAhead": "puntos adelante de ti",
+    "pointsBehind": "puntos detrás de ti",
+    "thisWeek": "esta semana",
+    "keywordsRanking": "keywords rankeando",
+    "mentions": "menciones",
+    "viewAnalysis": "Ver Análisis",
+    "headToHead": {
+      "title": "Comparación Directa",
+      "subtitle": "Ve cómo te comparas en todas las plataformas",
+      "compareWith": "Comparar con"
+    },
+    "insights": {
+      "title": "Por qué {competitor} rankea más alto",
+      "subtitle": "Insights generados por IA basados en análisis de respuestas"
+    },
+    "addModal": {
+      "title": "Agregar Competidor",
+      "label": "Dominio del competidor",
+      "placeholder": "ej., competidor.com",
+      "helper": "Obtendremos su información automáticamente y comenzaremos a rastrear",
+      "cancel": "Cancelar",
+      "add": "Agregar Competidor"
+    }
+  },
+  "reports": {
+    "title": "Reportes",
+    "subtitle": "Insights automatizados entregados a tu correo",
+    "generateNow": "Generar Reporte Ahora",
+    "settings": {
+      "title": "Reportes Programados",
+      "subtitle": "Recibe reportes automáticamente por email",
+      "autoGenerate": "Generar automáticamente",
+      "sendEmail": "Notificaciones por email",
+      "frequency": "Frecuencia",
+      "nextRun": "Próxima ejecución",
+      "lastGenerated": "Último generado",
+      "usage": "Uso",
+      "autoOff": "Desactivado",
+      "weekly": "Reporte Semanal",
+      "weeklyDesc": "Enviado cada lunes a las 9:00 AM",
+      "monthly": "Reporte Mensual",
+      "monthlyDesc": "Enviado el 1ro de cada mes",
+      "lastSent": "Último envío"
+    },
+    "recipients": {
+      "title": "Destinatarios",
+      "placeholder": "Agregar dirección de email",
+      "addRecipient": "Agregar Destinatario",
+      "owner": "Propietario",
+      "upgradeHint": "Mejora a Starter o superior para agregar más destinatarios"
+    },
+    "history": {
+      "title": "Historial de Reportes",
+      "subtitle": "Descarga o previsualiza reportes anteriores",
+      "report": "Reporte",
+      "date": "Fecha",
+      "type": "Tipo",
+      "status": "Estado",
+      "actions": "Acciones",
+      "preview": "Vista previa",
+      "download": "Descargar PDF",
+      "delivered": "Entregado",
+      "generating": "Generando",
+      "empty": "No hay reportes generados aún. Haz clic en 'Generar Reporte Ahora' para crear tu primer reporte."
+    },
+    "preview": {
+      "title": "¿Qué incluye tu reporte?",
+      "includes": [
+        "Resumen y tendencias del GEO Score",
+        "Top keywords",
+        "Movimiento de competidores",
+        "Nuevas oportunidades identificadas",
+        "Acciones recomendadas"
+      ],
+      "downloadSample": "Descargar Reporte de Ejemplo"
+    }
+  },
+  "recommendations": {
+    "title": "Recomendaciones",
+    "subtitle": "Sugerencias basadas en IA para mejorar tu visibilidad",
+    "generate": "Generar",
+    "potentialImpact": "Impacto Potencial",
+    "allComplete": "¡Todo completado!",
+    "progress": {
+      "title": "Completadas",
+      "of": "de"
+    },
+    "status": {
+      "completed": "Completada",
+      "inProgress": "En Progreso"
+    },
+    "empty": {
+      "title": "Sin recomendaciones aún",
+      "description": "Las recomendaciones aparecerán cuando hayamos analizado tus datos de visibilidad en IA"
+    },
+    "actions": {
+      "start": "Iniciar",
+      "markComplete": "Marcar como Completada",
+      "updating": "Actualizando..."
+    }
+  },
+  "billing": {
+    "title": "Facturación",
+    "subtitle": "Gestiona tu suscripción y métodos de pago",
+    "currentPlan": {
+      "title": "Plan Actual",
+      "renews": "Renueva",
+      "changePlan": "Cambiar Plan",
+      "upgrade": "Mejorar Plan",
+      "manageSub": "Gestionar Suscripción",
+      "cancel": "Cancelar Suscripción",
+      "noPlanTitle": "Información del plan no disponible",
+      "noPlanDesc": "Por favor, inténtalo de nuevo más tarde o contacta soporte"
+    },
+    "usage": {
+      "keywords": "Keywords",
+      "queries": "Consultas de Keywords (mensual)",
+      "domains": "Dominios",
+      "competitors": "Competidores",
+      "reports": "Informes (mensual)",
+      "recommendations": "Recomendaciones (mensual)",
+      "used": "usados"
+    },
+    "paymentMethod": {
+      "title": "Método de Pago",
+      "expires": "Expira",
+      "update": "Actualizar Método de Pago",
+      "billingEmail": "Email de facturación",
+      "updateEmail": "Actualizar Email"
+    },
+    "invoices": {
+      "title": "Facturas",
+      "date": "Fecha",
+      "description": "Descripción",
+      "amount": "Monto",
+      "status": "Estado",
+      "download": "Descargar",
+      "paid": "Pagado",
+      "viewAll": "Ver todas las facturas"
+    },
+    "downgrade": {
+      "title": "Advertencia de Degradación",
+      "description": "Degradar a {plan} resultará en los siguientes cambios:",
+      "keywordsArchived": "{count} palabras clave serán archivadas",
+      "competitorsArchived": "{count} competidores serán archivados",
+      "domainsArchived": "{count} dominios serán archivados",
+      "membersDeactivated": "{count} miembros del equipo serán desactivados",
+      "loseTeam": "La colaboración en equipo será desactivada",
+      "loseAPI": "El acceso a la API será desactivado",
+      "loseIntegrations": "Las integraciones serán desactivadas",
+      "loseCompetitors": "El seguimiento de competidores será desactivado",
+      "understand": "Entiendo que estos cambios no se pueden deshacer",
+      "confirm": "Proceder con la Degradación",
+      "cancel": "Cancelar"
+    }
+  },
+  "onboarding": {
+    "step1": {
+      "progress": "Paso 1 de 3 — Tu Marca",
+      "title": "Configuremos tu marca",
+      "subtitle": "Comenzaremos a rastrear cómo la IA ve tu dominio",
+      "label": "Tu dominio",
+      "placeholder": "tumarca.com",
+      "helper": "No incluyas https:// o www",
+      "continue": "Continuar"
+    },
+    "step2": {
+      "progress": "Paso 2 de 3 — Keywords",
+      "title": "¿Para qué debería recomendarte la IA?",
+      "subtitle": "Agrega las keywords y frases que tus clientes preguntan a la IA",
+      "keywordLabel": "Keyword",
+      "placeholder": "ej., \"mejor herramienta de gestión de proyectos\"",
+      "addAnother": "Agregar otra keyword",
+      "suggestions": "Sugeridas para tu dominio:",
+      "continue": "Continuar"
+    },
+    "step3": {
+      "progress": "Paso 3 de 3 — Competidores",
+      "title": "¿Quiénes son tus competidores?",
+      "subtitle": "Rastrea cómo te comparas con otros en tu espacio",
+      "competitorLabel": "Competidor",
+      "placeholder": "competidor.com",
+      "addAnother": "Agregar otro competidor",
+      "skip": "Saltar por ahora",
+      "start": "Comenzar a Rastrear"
+    },
+    "complete": {
+      "title": "¡Todo listo!",
+      "subtitle": "Estamos analizando tu visibilidad en IA en ChatGPT, Claude, Perplexity y Gemini. Esto usualmente toma 5-10 minutos.",
+      "whatNext": "¿Qué sigue?",
+      "steps": [
+        "Consultamos las plataformas de IA con tus keywords",
+        "Analizamos dónde apareces (y dónde no)",
+        "Recibirás tu primer GEO Score y recomendaciones"
+      ],
+      "goToDashboard": "Ir al Dashboard"
+    }
+  },
+  "sidebar": {
+    "main": "Principal",
+    "dashboard": "Dashboard",
+    "domains": "Dominios",
+    "keywords": "Keywords",
+    "competitors": "Competidores",
+    "reports": "Reportes",
+    "recommendations": "Recomendaciones",
+    "settings": "Configuración",
+    "preferences": "Preferencias",
+    "team": "Equipo",
+    "billing": "Facturación",
+    "apiKeys": "API Keys",
+    "integrations": "Integraciones",
+    "scheduling": "Programación",
+    "profile": "Perfil",
+    "comingSoon": "Próximamente",
+    "comingSoonDescription": "Esta funcionalidad está en desarrollo y estará disponible pronto!"
+  },
+  "scheduling": {
+    "title": "Programación",
+    "subtitle": "Gestiona consultas automáticas y generación de informes",
+    "settingsDesc": "Controla cuándo se ejecutan las consultas y los informes automáticos",
+    "keywords": {
+      "title": "Consultas de Palabras clave",
+      "autoQueryCount": "{count} de {total} palabras clave con consulta automática",
+      "showMore": "Ver {count} más",
+      "showLess": "Ver menos",
+      "manageKeywords": "Ver todas las keywords"
+    },
+    "reports": {
+      "title": "Informes",
+      "autoGenerate": "Generar informes automáticamente",
+      "sendEmail": "Enviar informes por correo"
+    },
+    "recommendations": {
+      "title": "Recomendaciones",
+      "autoGenerate": "Generar recomendaciones automáticamente",
+      "disabled": "No disponible en tu plan"
+    },
+    "frequency": "Frecuencia",
+    "nextRun": "Próxima ejecución",
+    "lastGenerated": "Último generado",
+    "lastQueried": "Última consulta",
+    "used": "{used} / {limit} este mes",
+    "neverRun": "Nunca",
+    "autoOff": "Generación automática desactivada",
+    "planBadge": "{frequency}",
+    "enabled": "Activado",
+    "notEnabled": "Desactivado"
+  },
+  "preferences": {
+    "title": "Preferencias",
+    "subtitle": "Administra tus preferencias de idioma y visualización",
+    "languageTitle": "Idioma",
+    "languageDescription": "Elige tu idioma preferido para la interfaz y el contenido generado por IA",
+    "save": "Guardar preferencia",
+    "saved": "Preferencia guardada con éxito"
+  },
+  "profile": {
+    "title": "Perfil",
+    "subtitle": "Gestiona la configuración de tu cuenta y workspace",
+    "name": "Nombre",
+    "namePlaceholder": "Tu nombre",
+    "save": "Guardar",
+    "saved": "Guardado exitosamente",
+    "workspace": "Workspace",
+    "workspaceName": "Nombre del Workspace",
+    "workspaceDesc": "El nombre de tu workspace visible para miembros del equipo",
+    "email": "Correo electrónico",
+    "currentEmail": "Correo actual",
+    "changeEmail": "Cambiar Correo",
+    "newEmail": "Nuevo Correo",
+    "newEmailPlaceholder": "nuevo@ejemplo.com",
+    "currentPassword": "Contraseña Actual",
+    "sendCode": "Enviar Código de Verificación",
+    "codeSent": "Código de verificación enviado a tu correo",
+    "verificationCode": "Código de Verificación",
+    "confirmChange": "Confirmar Cambio",
+    "emailChanged": "Correo cambiado exitosamente",
+    "password": "Contraseña",
+    "changePassword": "Cambiar Contraseña",
+    "newPassword": "Nueva Contraseña",
+    "confirmPassword": "Confirmar Contraseña",
+    "passwordChanged": "Contraseña cambiada exitosamente",
+    "dangerZone": "Zona de Peligro",
+    "deleteAccount": "Eliminar Cuenta",
+    "deleteDesc": "Contacta a soporte para eliminar tu cuenta",
+    "ownerOnly": "Solo los propietarios del workspace pueden cambiar esto"
+  },
+  "mentions": {
+    "detailTitle": "Detalles del Análisis IA",
+    "ranked": "Posición #{position} de {total}",
+    "notRanked": "No clasificado entre {total} recomendaciones",
+    "recommendations": "Recomendaciones IA",
+    "insights": "Insights de Consulta",
+    "intent": "Intención",
+    "format": "Formato",
+    "targetDomain": "Tu dominio",
+    "viewDomain": "Visitar sitio",
+    "noData": "No hay datos de recomendaciones disponibles",
+    "queriesTitle": "Historial de Consultas",
+    "queriesSubtitle": "Todas las consultas IA para esta keyword",
+    "noQueries": "Aún no hay consultas para esta keyword",
+    "query": "Consulta",
+    "platform": "Plataforma",
+    "result": "Resultado",
+    "date": "Fecha",
+    "mentioned": "Mencionado",
+    "notMentioned": "No mencionado",
+    "viewDetails": "Ver detalles"
+  },
+  "team": {
+    "subtitle": "Gestiona los miembros del equipo y permisos",
+    "inviteMember": "Invitar Miembro",
+    "inviteTitle": "Invitar Miembro del Equipo",
+    "inviteDesc": "Envía una invitación para unirse a tu equipo.",
+    "emailLabel": "Dirección de email",
+    "roleLabel": "Rol",
+    "selectRole": "Seleccionar rol",
+    "cancel": "Cancelar",
+    "sending": "Enviando...",
+    "sendInvite": "Enviar Invitación",
+    "membersTitle": "Miembros del Equipo ({count})",
+    "promoteAdmin": "Promover a Admin",
+    "setEditor": "Establecer como Editor",
+    "setMember": "Establecer como Miembro",
+    "setViewer": "Establecer como Visor",
+    "removeFromTeam": "Eliminar del equipo",
+    "removeTitle": "Eliminar Miembro del Equipo",
+    "removeDesc": "¿Estás seguro de que quieres eliminar a este miembro del equipo? Perderá acceso al workspace.",
+    "removing": "Eliminando...",
+    "remove": "Eliminar",
+    "roles": {
+      "owner": "Propietario",
+      "admin": "Administrador",
+      "editor": "Editor",
+      "member": "Miembro",
+      "viewer": "Visor",
+      "ownerDesc": "Acceso total a todo",
+      "adminDesc": "Todo excepto facturación",
+      "editorDesc": "Crear y gestionar contenido",
+      "memberDesc": "Acceso básico",
+      "viewerDesc": "Acceso solo lectura"
+    },
+    "invite": {
+      "title": "Invitación de Equipo",
+      "joinWorkspace": "Unirse a {workspace}",
+      "accept": "Aceptar Invitación",
+      "expired": "Esta invitación ha expirado o es inválida",
+      "loginRequired": "Regístrate o inicia sesión para aceptar esta invitación",
+      "login": "Iniciar Sesión",
+      "signup": "Registrarse",
+      "accepted": "¡Invitación aceptada! Redirigiendo...",
+      "inviterPlaceholder": "Alguien",
+      "inviteMessage": "te invitó a unirte a su workspace.",
+      "inviterMessage": "envió una invitación para unirse",
+      "joinPrefix": "Únete a",
+      "collaborateMessage": "para colaborar y acceder a sus recursos.",
+      "youInvitedPrefix": "Invitaste a",
+      "youInvitedSuffix": "a unirse a tu workspace.",
+      "inviterCollaborateMessage": "se unirá cuando acepte la invitación.",
+      "inviterNewMember": "un nuevo miembro",
+      "declining": "Rechazando...",
+      "decline": "Rechazar",
+      "accepting": "Aceptando...",
+      "acceptInvite": "Aceptar Invitación",
+      "acceptError": "Error al aceptar la invitación",
+      "expirationWarning": "La invitación expira en 7 días",
+      "inviterViewOnly": "Enviaste esta invitación. Está pendiente de aceptación.",
+      "expiredMessage": "Esta invitación ha expirado o ya no es válida.",
+      "backToHome": "Volver a Inicio",
+      "declined": "Invitación Rechazada",
+      "declinedMessage": "Has rechazado esta invitación. Si fue un error, contacta con soporte.",
+      "acceptedMessage": "Te has unido exitosamente al workspace. Redirigiendo...",
+      "contactSupport": "Contactar Soporte",
+      "declineError": "Error al rechazar la invitación"
+    }
+  },
+  "emptyStates": {
+    "teamMembers": "No hay miembros del equipo aún",
+    "teamMembersDesc": "Invita a los miembros de tu equipo a colaborar",
+    "apiKeys": "No hay API keys aún",
+    "apiKeysDesc": "Crea tu primera API key para comenzar",
+    "integrations": "No hay integraciones disponibles",
+    "integrationsDesc": "Vuelve pronto para más integraciones"
+  },
+  "common": {
+    "search": {
+      "placeholder": "Buscar palabras clave, competidores, dominios...",
+      "shortcut": "⌘K",
+      "keywords": "Palabras clave",
+      "competitors": "Competidores",
+      "domains": "Dominios",
+      "allWorkspaces": "Todos los workspaces",
+      "noResults": "No se encontraron resultados",
+      "typeToSearch": "Escribe para buscar..."
+    },
+    "searchPlaceholder": "Buscar keywords, competidores...",
+    "notifications": {
+      "title": "Notificaciones",
+      "markAllRead": "Marcar todas como leídas",
+      "empty": "No hay notificaciones aún",
+      "justNow": "Ahora",
+      "minutesAgo": "hace {count}m",
+      "hoursAgo": "hace {count}h",
+      "daysAgo": "hace {count}d"
+    },
+    "newAlerts": "nuevas alertas",
+    "upgrade": "Actualizar a Pro",
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "view": "Ver",
+    "export": "Exportar",
+    "import": "Importar"
+  },
+  "errors": {
+    "auth": {
+      "emailAlreadyRegistered": "Este correo electrónico ya está registrado",
+      "invalidCredentials": "Correo electrónico o contraseña incorrectos",
+      "unauthorized": "Correo electrónico o contraseña incorrectos",
+      "registrationFailed": "Error al registrarse. Por favor, inténtalo de nuevo.",
+      "loginFailed": "Error al iniciar sesión. Por favor, inténtalo de nuevo.",
+      "unexpectedError": "Ha ocurrido un error inesperado",
+      "networkError": "Error de red. Por favor, comprueba tu conexión."
+    },
+    "validation": {
+      "emailInvalid": "Por favor, introduce una dirección de correo electrónico válida",
+      "emailRequired": "El correo electrónico es obligatorio",
+      "passwordRequired": "La contraseña es obligatoria",
+      "passwordMinLength": "La contraseña debe tener al menos 8 caracteres",
+      "nameMinLength": "El nombre debe tener al menos 2 caracteres",
+      "termsRequired": "Debes aceptar los términos y condiciones",
+      "passwordsDontMatch": "Las contraseñas no coinciden"
+    }
+  },
+  "notFound": {
+    "tagline": "¡Oops!",
+    "title": "404",
+    "subtitle": "La página que buscas no existe o ha sido movida.",
+    "backHome": "Volver al Inicio",
+    "contactSupport": "Contactar Soporte"
+  },
+  "privacy": {
+    "tagline": "Legal",
+    "title": "Política de Privacidad",
+    "subtitle": "Cómo recopilamos, usamos y protegemos tus datos personales.",
+    "updated": "Actualizado Feb 2026",
+    "lastUpdated": "Última actualización: 17 de Febrero de 2026",
+    "intro": "Esta Política de Privacidad describe cómo GeoRank (\"nosotros\", \"nos\" o \"nuestro\") recopila, usa y comparte información cuando utilizas nuestra plataforma de monitoreo de visibilidad en búsqueda por IA y servicios relacionados (el \"Servicio\").",
+    "sections": [
+      {
+        "heading": "Información que Recopilamos",
+        "content": "<p>Recopilamos los siguientes tipos de información:</p><ul><li><strong>Información de Cuenta</strong><br>Al crear una cuenta, recopilamos tu nombre, dirección de correo electrónico, nombre de empresa y datos de facturación.</li><li><strong>Datos de Uso</strong><br>Recopilamos automáticamente datos sobre cómo interactúas con el Servicio, incluyendo páginas visitadas, funciones utilizadas y duración de la sesión.</li><li><strong>Datos de Monitoreo</strong><br>Al configurar el monitoreo de marca, recopilamos los nombres de marca, palabras clave y consultas en plataformas de IA que configuras. También almacenamos las respuestas generadas por IA y datos de menciones que recuperamos en tu nombre.</li><li><strong>Datos de Dispositivo y Registro</strong><br>Recopilamos direcciones IP, tipo de navegador, sistema operativo e identificadores de dispositivo con fines de seguridad y análisis.</li></ul>"
+      },
+      {
+        "heading": "Cómo Usamos Tu Información",
+        "content": "<ul><li>Para proporcionar, mantener y mejorar el Servicio</li><li>Para monitorear la visibilidad de tu marca en ChatGPT, Claude, Perplexity y Gemini</li><li>Para generar informes analíticos, GEO Scores y recomendaciones accionables</li><li>Para procesar pagos y gestionar suscripciones</li><li>Para enviar correos transaccionales (informes, alertas, notificaciones de cuenta)</li><li>Para detectar y prevenir fraude o abuso</li><li>Para cumplir con obligaciones legales</li></ul>"
+      },
+      {
+        "heading": "Compartición de Datos",
+        "content": "<p>No vendemos tus datos personales. Podemos compartir tu información con:</p><ul><li><strong>Proveedores de Servicio</strong> — Empresas terceras que nos ayudan a operar el Servicio (hosting, procesamiento de pagos, entrega de correos)</li><li><strong>Socios de Análisis</strong> — Utilizamos análisis enfocados en privacidad (Umami) que no usan cookies ni recopilan información personalmente identificable</li><li><strong>Requisitos Legales</strong> — Cuando sea requerido por ley, regulación o proceso legal</li></ul>"
+      },
+      {
+        "heading": "Retención de Datos",
+        "content": "<p>Mantenemos tus datos de cuenta mientras tu cuenta esté activa. Los datos de monitoreo (respuestas de IA, historial de menciones) se mantienen durante la vigencia de tu suscripción más 30 días después de la cancelación. Puedes solicitar la eliminación de tus datos en cualquier momento.</p>"
+      },
+      {
+        "heading": "Tus Derechos",
+        "content": "<p>Dependiendo de tu jurisdicción, puedes tener derecho a:</p><ul><li>Acceder a los datos personales que tenemos sobre ti</li><li>Solicitar la corrección de datos inexactos</li><li>Solicitar la eliminación de tus datos</li><li>Oponerte o restringir el procesamiento</li><li>Portabilidad de datos (recibir tus datos en formato estructurado)</li><li>Retirar el consentimiento en cualquier momento</li></ul><p>Para usuarios en Brasil, estos derechos están garantizados por la LGPD. Para usuarios en la UE/EEE, por el GDPR.</p>"
+      },
+      {
+        "heading": "Seguridad",
+        "content": "<p>Implementamos medidas de seguridad estándar de la industria, incluyendo cifrado en tránsito (TLS), cifrado en reposo y controles de acceso. Sin embargo, ningún método de transmisión o almacenamiento es 100% seguro.</p>"
+      },
+      {
+        "heading": "Privacidad de Menores",
+        "content": "<p>El Servicio no está dirigido a individuos menores de 18 años. No recopilamos intencionalmente datos personales de niños.</p>"
+      },
+      {
+        "heading": "Cambios en Esta Política",
+        "content": "<p>Podemos actualizar esta Política de Privacidad periódicamente. Te notificaremos sobre cambios materiales publicando la política actualizada en esta página y actualizando la fecha de \"Última actualización\".</p>"
+      }
+    ],
+    "contact": "Si tienes alguna pregunta sobre esta Política de Privacidad, contáctanos en: <email>contact@georank.site</email>"
+  },
+  "terms": {
+    "tagline": "Legal",
+    "title": "Términos de Servicio",
+    "subtitle": "Las reglas y directrices para usar la plataforma GeoRank.",
+    "updated": "Actualizado Feb 2026",
+    "lastUpdated": "Última actualización: 17 de Febrero de 2026",
+    "intro": "Estos Términos de Servicio (\"Términos\") rigen tu acceso y uso de la plataforma GeoRank y servicios relacionados (el \"Servicio\"). Al usar el Servicio, aceptas estar vinculado por estos Términos.",
+    "sections": [
+      {
+        "heading": "1. Descripción del Servicio",
+        "content": "<p>GeoRank es una plataforma de monitoreo y optimización de visibilidad en búsqueda por IA. El Servicio te permite:</p><ul><li>Monitorear menciones y visibilidad de tu marca en plataformas de IA (ChatGPT, Claude, Perplexity, Gemini)</li><li>Rastrear GEO Scores y métricas de visibilidad a lo largo del tiempo</li><li>Analizar la presencia de competidores en respuestas generadas por IA</li><li>Recibir recomendaciones accionables para mejorar la visibilidad en búsqueda por IA</li><li>Generar informes y alertas automatizados</li></ul>"
+      },
+      {
+        "heading": "2. Registro de Cuenta",
+        "content": "<p>Para acceder al Servicio, debes crear una cuenta con información precisa y completa. Eres responsable de mantener la confidencialidad de las credenciales de tu cuenta y de todas las actividades que ocurran bajo tu cuenta.</p>"
+      },
+      {
+        "heading": "3. Uso Aceptable",
+        "content": "<p>Aceptas no:</p><ul><li>Usar el Servicio para cualquier propósito ilegal</li><li>Intentar ingeniería inversa, descompilar o desensamblar cualquier parte del Servicio</li><li>Hacer scraping, crawling o usar medios automatizados para acceder al Servicio más allá de la API proporcionada</li><li>Interferir o interrumpir el Servicio o su infraestructura</li><li>Revender o redistribuir el Servicio sin nuestro consentimiento por escrito</li><li>Usar el Servicio para monitorear marcas o entidades que no estás autorizado a representar</li></ul>"
+      },
+      {
+        "heading": "4. Suscripciones y Facturación",
+        "content": "<p>El Servicio se ofrece a través de planes de suscripción. Al suscribirte, aceptas pagar las tarifas aplicables. Las suscripciones se renuevan automáticamente a menos que se cancelen antes del final del período de facturación actual.</p><ul><li><strong>Plan Gratuito</strong> — Funciones limitadas, sin pago requerido</li><li><strong>Planes de Pago</strong> — Facturados mensual o anualmente con acceso a funciones premium</li><li><strong>Enterprise</strong> — Precios personalizados, contacta a ventas para más detalles</li></ul><p>Todas las tarifas no son reembolsables excepto cuando lo requiera la ley aplicable.</p>"
+      },
+      {
+        "heading": "5. Propiedad Intelectual",
+        "content": "<p>El Servicio, incluyendo su contenido original, características y funcionalidad, es propiedad de GeoRank y está protegido por leyes internacionales de derechos de autor, marcas registradas y otras leyes de propiedad intelectual.</p><p>Mantienes la propiedad de cualquier dato o contenido que proporciones al Servicio. Al usar el Servicio, nos otorgas una licencia limitada para usar tus datos exclusivamente para proporcionar y mejorar el Servicio.</p>"
+      },
+      {
+        "heading": "6. Datos y Privacidad",
+        "content": "<p>Tu uso del Servicio también está regido por nuestra <a href=\"/privacy\">Política de Privacidad</a>. Los datos de monitoreo que recopilamos en tu nombre (respuestas de IA, datos de menciones) se procesan exclusivamente con el propósito de proporcionar el Servicio.</p>"
+      },
+      {
+        "heading": "7. Limitación de Responsabilidad",
+        "content": "<p>En la máxima medida permitida por la ley, GeoRank no será responsable de daños indirectos, incidentales, especiales, consecuentes o punitivos, incluyendo pero no limitado a pérdida de beneficios, datos u oportunidades de negocio.</p><p>El Servicio monitorea plataformas de IA de terceros. No garantizamos la precisión, integridad o fiabilidad de los datos recuperados de estas plataformas, ya que sus respuestas pueden cambiar en cualquier momento.</p>"
+      },
+      {
+        "heading": "8. Terminación",
+        "content": "<p>Podemos suspender o terminar tu acceso al Servicio en cualquier momento, con o sin causa, con o sin aviso. Tras la terminación, tu derecho a usar el Servicio cesa inmediatamente. Puedes exportar tus datos dentro de los 30 días posteriores a la terminación.</p>"
+      },
+      {
+        "heading": "9. Cambios en los Términos",
+        "content": "<p>Nos reservamos el derecho de modificar estos Términos en cualquier momento. Proporcionaremos aviso de cambios materiales por correo electrónico o a través del Servicio. El uso continuado del Servicio después de los cambios constituye aceptación de los nuevos Términos.</p>"
+      },
+      {
+        "heading": "10. Ley Aplicable",
+        "content": "<p>Estos Términos se rigen por las leyes de la República Federativa de Brasil. Cualquier disputa será resuelta en los tribunales de Brasil.</p>"
+      }
+    ],
+    "contact": "Si tienes alguna pregunta sobre estos Términos, contáctanos en: <email>contact@georank.site</email>"
+  },
+  "cookiePolicy": {
+    "tagline": "Legal",
+    "title": "Política de Cookies",
+    "subtitle": "Qué son las cookies, los tipos que usamos y cómo puedes controlarlas.",
+    "updated": "Actualizado Feb 2026",
+    "lastUpdated": "Última actualización: 17 de Febrero de 2026",
+    "intro": "Esta Política de Cookies explica cómo GeoRank usa cookies y tecnologías similares en nuestro sitio web. Al usar el Servicio, aceptas el uso de cookies como se describe en esta política.",
+    "sections": [
+      {
+        "heading": "¿Qué Son las Cookies?",
+        "content": "<p>Las cookies son pequeños archivos de texto almacenados en tu dispositivo cuando visitas un sitio web. Ayudan al sitio a reconocer tu dispositivo y almacenar información sobre tus preferencias o acciones anteriores.</p>"
+      },
+      {
+        "heading": "Tipos de Cookies que Usamos",
+        "content": "<ul><li><strong>Cookies Esenciales</strong><br>Necesarias para el funcionamiento adecuado del sitio web. Habilitan funciones principales como autenticación, seguridad, gestión de red y accesibilidad. Estas cookies no pueden ser desactivadas.</li><li><strong>Cookies de Análisis</strong><br>Nos ayudan a entender cómo los visitantes interactúan con el sitio. Usamos Umami, una herramienta de análisis enfocada en privacidad que no usa cookies para rastreo y no recopila información personalmente identificable.</li><li><strong>Cookies de Funcionalidad</strong><br>Permiten que el sitio web recuerde las elecciones que haces (como tu idioma preferido, preferencias de tema o diseño del dashboard) y proporcione funciones mejoradas.</li></ul>"
+      },
+      {
+        "heading": "Cookies de Terceros",
+        "content": "<p>Minimizamos el uso de cookies de terceros. Nuestra solución de análisis (Umami) es auto-alojada y enfocada en privacidad. No usamos cookies publicitarias ni compartimos datos de cookies con anunciantes.</p>"
+      },
+      {
+        "heading": "Gestión de Cookies",
+        "content": "<p>La mayoría de los navegadores web te permiten controlar las cookies a través de la configuración. Generalmente puedes configurar tu navegador para:</p><ul><li>Aceptar o rechazar todas las cookies</li><li>Notificarte cuando se establece una cookie</li><li>Eliminar cookies manual o automáticamente</li></ul><p>Ten en cuenta que deshabilitar las cookies esenciales puede afectar la funcionalidad del Servicio.</p>"
+      },
+      {
+        "heading": "Más Información",
+        "content": "<p>Para más detalles sobre cómo manejamos los datos personales, consulta nuestra <a href=\"/privacy\">Política de Privacidad</a>.</p>"
+      }
+    ],
+    "contact": "Si tienes alguna pregunta sobre esta Política de Cookies, contáctanos en: <email>contact@georank.site</email>"
+  },
+  "lp-ai-visibility": {
+    "hero": {
+      "title": "La IA está recomendando a tus competidores. No a ti.",
+      "subtitle": "Descubre cómo ChatGPT, Claude y Perplexity posicionan tu marca — y qué hacer al respecto.",
+      "cta": "Verificar Mi Visibilidad en IA - Gratis",
+      "inputPlaceholder": "tumarca.com",
+      "trust": "Plan gratuito para siempre · Sin tarjeta de crédito · Resultados en 30 segundos"
+    },
+    "bullets": {
+      "item1": {
+        "title": "Conoce exactamente dónde estás",
+        "description": "Ve cada vez que la IA menciona tu marca. Rastrea tu puntuación de visibilidad en ChatGPT, Claude, Perplexity y 3 plataformas más en tiempo real."
+      },
+      "item2": {
+        "title": "Supera a tus competidores en resultados de IA",
+        "description": "Descubre a quién recomienda la IA en tu lugar y por qué. Obtén un plan claro para superarlos."
+      },
+      "item3": {
+        "title": "Convierte insights en ingresos",
+        "description": "Recibe recomendaciones con IA que te dicen exactamente qué cambiar. Las marcas que usan GeoRank ven hasta 340% más menciones en IA en 8 semanas."
+      }
+    }
+  }
+}
